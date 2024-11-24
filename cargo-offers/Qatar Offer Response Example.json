@@ -1,0 +1,4316 @@
+{
+  "availabilityResponseSOs": [
+    {
+      "departureDate": "10-FEB-2023",
+      "availabilityResponseSOs": [
+        {
+          "requestRefId": "8357104",
+          "autoConfirm": false,
+          "origin": "FRA",
+          "destination": "DOH",
+          "flightItineraries": [
+            {
+              "carrierCode": "QR",
+              "carrierNumber": "9000",
+              "suffix": null,
+              "scheduledDepartureDate": "10-FEB-2023",
+              "scheduledArrivalDate": "10-FEB-2023",
+              "scheduledDepartureTime": "10-Feb-2023 01:00",
+              "scheduledArrivalTime": "10-Feb-2023 06:00",
+              "segmentOfArrival": "DOH",
+              "segmentOfDeparture": "FRA",
+              "dow": "Friday",
+              "dayChange": "0",
+              "allotmentCode": "",
+              "bookingStatus": "NN",
+              "iataEqpType": "789",
+              "carrierAircraftType": "789",
+              "tailNumber": null,
+              "operationType": "PAX",
+              "flightBookingStatus": "Open",
+              "shpFltMvtSts": null,
+              "flightOperationStatus": null,
+              "weight": 1000,
+              "volume": 0.18,
+              "pcs": 1,
+              "pendingWeight": null,
+              "pendingVolume": null,
+              "pendingPcs": null,
+              "operationalCarrierCode": null,
+              "operationalCarrierNumber": null
+            }
+          ],
+          "productCommodityDetails": {
+            "productCode": "GOLD",
+            "commodityCode": "9999",
+            "dgShipment": null,
+            "specialHandlingCodes": [
+              "GLD",
+              "SPX",
+              "HEA"
+            ],
+            "densityGroup": null,
+            "natureOfGoods": "MISCELLANEOUS",
+            "serviceCode": null
+          },
+          "rateDetails": {
+            "currencyCode": "EUR",
+            "rateType": "Street Rate",
+            "chargeableWeight": 1000,
+            "chargeableWeightUnit": "K",
+            "totalAmount": 6000,
+            "discountedtotalAmount": 6000,
+            "discountPercentage": "0%",
+            "ratePerkilo": 6,
+            "contributionNotMet": false,
+            "chargesBreakDown": [
+              {
+                "chargeType": "Freight Charges",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 5000
+              },
+              {
+                "chargeType": "OCDC",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 1000
+              }
+            ]
+          },
+          "travelTime": 300,
+          "embargoNotificationRemarks": "****NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN",
+          "businessErrorSOs": [
+            {
+              "status": false,
+              "validationName": "Soft Embargo",
+              "reasonSummary": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "additionalMessage": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "reasonCode": "EMBARGO_CHECK",
+              "reasonDesc": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "boardPoint": null,
+              "putToHdqRmQ": false,
+              "addonStatus": null,
+              "node": null,
+              "queueTopic": null,
+              "remarks": null
+            }
+          ]
+        },
+        {
+          "requestRefId": "8357105",
+          "autoConfirm": false,
+          "origin": "FRA",
+          "destination": "DOH",
+          "flightItineraries": [
+            {
+              "carrierCode": "QR",
+              "carrierNumber": "9001",
+              "suffix": null,
+              "scheduledDepartureDate": "10-FEB-2023",
+              "scheduledArrivalDate": "10-FEB-2023",
+              "scheduledDepartureTime": "10-Feb-2023 02:00",
+              "scheduledArrivalTime": "10-Feb-2023 07:00",
+              "segmentOfArrival": "DOH",
+              "segmentOfDeparture": "FRA",
+              "dow": "Friday",
+              "dayChange": "0",
+              "allotmentCode": "",
+              "bookingStatus": "NN",
+              "iataEqpType": "789",
+              "carrierAircraftType": "789",
+              "tailNumber": null,
+              "operationType": "PAX",
+              "flightBookingStatus": "Open",
+              "shpFltMvtSts": null,
+              "flightOperationStatus": null,
+              "weight": 1000,
+              "volume": 0.18,
+              "pcs": 1,
+              "pendingWeight": null,
+              "pendingVolume": null,
+              "pendingPcs": null,
+              "operationalCarrierCode": null,
+              "operationalCarrierNumber": null
+            }
+          ],
+          "productCommodityDetails": {
+            "productCode": "GOLD",
+            "commodityCode": "9999",
+            "dgShipment": null,
+            "specialHandlingCodes": [
+              "GLD",
+              "SPX",
+              "HEA"
+            ],
+            "densityGroup": null,
+            "natureOfGoods": "MISCELLANEOUS",
+            "serviceCode": null
+          },
+          "rateDetails": {
+            "currencyCode": "EUR",
+            "rateType": "Street Rate",
+            "chargeableWeight": 1000,
+            "chargeableWeightUnit": "K",
+            "totalAmount": 6000,
+            "discountedtotalAmount": 6000,
+            "discountPercentage": "0%",
+            "ratePerkilo": 6,
+            "contributionNotMet": false,
+            "chargesBreakDown": [
+              {
+                "chargeType": "Freight Charges",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 5000
+              },
+              {
+                "chargeType": "OCDC",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 1000
+              }
+            ]
+          },
+          "travelTime": 300,
+          "embargoNotificationRemarks": "****NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN",
+          "businessErrorSOs": [
+            {
+              "status": false,
+              "validationName": "Soft Embargo",
+              "reasonSummary": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "additionalMessage": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "reasonCode": "EMBARGO_CHECK",
+              "reasonDesc": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "boardPoint": null,
+              "putToHdqRmQ": false,
+              "addonStatus": null,
+              "node": null,
+              "queueTopic": null,
+              "remarks": null
+            }
+          ]
+        },
+        {
+          "requestRefId": "8357106",
+          "autoConfirm": false,
+          "origin": "FRA",
+          "destination": "DOH",
+          "flightItineraries": [
+            {
+              "carrierCode": "QR",
+              "carrierNumber": "9002",
+              "suffix": null,
+              "scheduledDepartureDate": "10-FEB-2023",
+              "scheduledArrivalDate": "10-FEB-2023",
+              "scheduledDepartureTime": "10-Feb-2023 03:00",
+              "scheduledArrivalTime": "10-Feb-2023 08:00",
+              "segmentOfArrival": "DOH",
+              "segmentOfDeparture": "FRA",
+              "dow": "Friday",
+              "dayChange": "0",
+              "allotmentCode": "",
+              "bookingStatus": "NN",
+              "iataEqpType": "789",
+              "carrierAircraftType": "789",
+              "tailNumber": null,
+              "operationType": "PAX",
+              "flightBookingStatus": "Open",
+              "shpFltMvtSts": null,
+              "flightOperationStatus": null,
+              "weight": 1000,
+              "volume": 0.18,
+              "pcs": 1,
+              "pendingWeight": null,
+              "pendingVolume": null,
+              "pendingPcs": null,
+              "operationalCarrierCode": null,
+              "operationalCarrierNumber": null
+            }
+          ],
+          "productCommodityDetails": {
+            "productCode": "GOLD",
+            "commodityCode": "9999",
+            "dgShipment": null,
+            "specialHandlingCodes": [
+              "GLD",
+              "SPX",
+              "HEA"
+            ],
+            "densityGroup": null,
+            "natureOfGoods": "MISCELLANEOUS",
+            "serviceCode": null
+          },
+          "rateDetails": {
+            "currencyCode": "EUR",
+            "rateType": "Street Rate",
+            "chargeableWeight": 1000,
+            "chargeableWeightUnit": "K",
+            "totalAmount": 6000,
+            "discountedtotalAmount": 6000,
+            "discountPercentage": "0%",
+            "ratePerkilo": 6,
+            "contributionNotMet": false,
+            "chargesBreakDown": [
+              {
+                "chargeType": "Freight Charges",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 5000
+              },
+              {
+                "chargeType": "OCDC",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 1000
+              }
+            ]
+          },
+          "travelTime": 300,
+          "embargoNotificationRemarks": "****NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN",
+          "businessErrorSOs": [
+            {
+              "status": false,
+              "validationName": "Soft Embargo",
+              "reasonSummary": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "additionalMessage": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "reasonCode": "EMBARGO_CHECK",
+              "reasonDesc": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "boardPoint": null,
+              "putToHdqRmQ": false,
+              "addonStatus": null,
+              "node": null,
+              "queueTopic": null,
+              "remarks": null
+            }
+          ]
+        },
+        {
+          "requestRefId": "8357107",
+          "autoConfirm": false,
+          "origin": "FRA",
+          "destination": "DOH",
+          "flightItineraries": [
+            {
+              "carrierCode": "QR",
+              "carrierNumber": "6666",
+              "suffix": null,
+              "scheduledDepartureDate": "10-FEB-2023",
+              "scheduledArrivalDate": "10-FEB-2023",
+              "scheduledDepartureTime": "10-Feb-2023 00:30",
+              "scheduledArrivalTime": "10-Feb-2023 08:30",
+              "segmentOfArrival": "DOH",
+              "segmentOfDeparture": "FRA",
+              "dow": "Friday",
+              "dayChange": "0",
+              "allotmentCode": "",
+              "bookingStatus": "NN",
+              "iataEqpType": "77W",
+              "carrierAircraftType": "77P",
+              "tailNumber": null,
+              "operationType": "PAX",
+              "flightBookingStatus": "Open",
+              "shpFltMvtSts": null,
+              "flightOperationStatus": null,
+              "weight": 1000,
+              "volume": 0.18,
+              "pcs": 1,
+              "pendingWeight": null,
+              "pendingVolume": null,
+              "pendingPcs": null,
+              "operationalCarrierCode": null,
+              "operationalCarrierNumber": null
+            }
+          ],
+          "productCommodityDetails": {
+            "productCode": "GOLD",
+            "commodityCode": "9999",
+            "dgShipment": null,
+            "specialHandlingCodes": [
+              "GLD",
+              "SPX",
+              "HEA"
+            ],
+            "densityGroup": null,
+            "natureOfGoods": "MISCELLANEOUS",
+            "serviceCode": null
+          },
+          "rateDetails": {
+            "currencyCode": "EUR",
+            "rateType": "Street Rate",
+            "chargeableWeight": 1000,
+            "chargeableWeightUnit": "K",
+            "totalAmount": 6000,
+            "discountedtotalAmount": 6000,
+            "discountPercentage": "0%",
+            "ratePerkilo": 6,
+            "contributionNotMet": false,
+            "chargesBreakDown": [
+              {
+                "chargeType": "Freight Charges",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 5000
+              },
+              {
+                "chargeType": "OCDC",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 1000
+              }
+            ]
+          },
+          "travelTime": 480,
+          "embargoNotificationRemarks": "****NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN",
+          "businessErrorSOs": [
+            {
+              "status": false,
+              "validationName": "Soft Embargo",
+              "reasonSummary": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "additionalMessage": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "reasonCode": "EMBARGO_CHECK",
+              "reasonDesc": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "boardPoint": null,
+              "putToHdqRmQ": false,
+              "addonStatus": null,
+              "node": null,
+              "queueTopic": null,
+              "remarks": null
+            }
+          ]
+        },
+        {
+          "requestRefId": "8357108",
+          "autoConfirm": false,
+          "origin": "FRA",
+          "destination": "DOH",
+          "flightItineraries": [
+            {
+              "carrierCode": "QR",
+              "carrierNumber": "9003",
+              "suffix": null,
+              "scheduledDepartureDate": "10-FEB-2023",
+              "scheduledArrivalDate": "10-FEB-2023",
+              "scheduledDepartureTime": "10-Feb-2023 04:00",
+              "scheduledArrivalTime": "10-Feb-2023 09:00",
+              "segmentOfArrival": "DOH",
+              "segmentOfDeparture": "FRA",
+              "dow": "Friday",
+              "dayChange": "0",
+              "allotmentCode": "",
+              "bookingStatus": "NN",
+              "iataEqpType": "789",
+              "carrierAircraftType": "789",
+              "tailNumber": null,
+              "operationType": "PAX",
+              "flightBookingStatus": "Open",
+              "shpFltMvtSts": null,
+              "flightOperationStatus": null,
+              "weight": 1000,
+              "volume": 0.18,
+              "pcs": 1,
+              "pendingWeight": null,
+              "pendingVolume": null,
+              "pendingPcs": null,
+              "operationalCarrierCode": null,
+              "operationalCarrierNumber": null
+            }
+          ],
+          "productCommodityDetails": {
+            "productCode": "GOLD",
+            "commodityCode": "9999",
+            "dgShipment": null,
+            "specialHandlingCodes": [
+              "GLD",
+              "SPX",
+              "HEA"
+            ],
+            "densityGroup": null,
+            "natureOfGoods": "MISCELLANEOUS",
+            "serviceCode": null
+          },
+          "rateDetails": {
+            "currencyCode": "EUR",
+            "rateType": "Street Rate",
+            "chargeableWeight": 1000,
+            "chargeableWeightUnit": "K",
+            "totalAmount": 6000,
+            "discountedtotalAmount": 6000,
+            "discountPercentage": "0%",
+            "ratePerkilo": 6,
+            "contributionNotMet": false,
+            "chargesBreakDown": [
+              {
+                "chargeType": "Freight Charges",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 5000
+              },
+              {
+                "chargeType": "OCDC",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 1000
+              }
+            ]
+          },
+          "travelTime": 300,
+          "embargoNotificationRemarks": "****NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN",
+          "businessErrorSOs": [
+            {
+              "status": false,
+              "validationName": "Soft Embargo",
+              "reasonSummary": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "additionalMessage": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "reasonCode": "EMBARGO_CHECK",
+              "reasonDesc": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "boardPoint": null,
+              "putToHdqRmQ": false,
+              "addonStatus": null,
+              "node": null,
+              "queueTopic": null,
+              "remarks": null
+            }
+          ]
+        },
+        {
+          "requestRefId": "8357109",
+          "autoConfirm": false,
+          "origin": "FRA",
+          "destination": "DOH",
+          "flightItineraries": [
+            {
+              "carrierCode": "QR",
+              "carrierNumber": "9004",
+              "suffix": null,
+              "scheduledDepartureDate": "10-FEB-2023",
+              "scheduledArrivalDate": "10-FEB-2023",
+              "scheduledDepartureTime": "10-Feb-2023 04:00",
+              "scheduledArrivalTime": "10-Feb-2023 09:00",
+              "segmentOfArrival": "DOH",
+              "segmentOfDeparture": "FRA",
+              "dow": "Friday",
+              "dayChange": "0",
+              "allotmentCode": "",
+              "bookingStatus": "NN",
+              "iataEqpType": "789",
+              "carrierAircraftType": "789",
+              "tailNumber": null,
+              "operationType": "PAX",
+              "flightBookingStatus": "Open",
+              "shpFltMvtSts": null,
+              "flightOperationStatus": null,
+              "weight": 1000,
+              "volume": 0.18,
+              "pcs": 1,
+              "pendingWeight": null,
+              "pendingVolume": null,
+              "pendingPcs": null,
+              "operationalCarrierCode": null,
+              "operationalCarrierNumber": null
+            }
+          ],
+          "productCommodityDetails": {
+            "productCode": "GOLD",
+            "commodityCode": "9999",
+            "dgShipment": null,
+            "specialHandlingCodes": [
+              "GLD",
+              "SPX",
+              "HEA"
+            ],
+            "densityGroup": null,
+            "natureOfGoods": "MISCELLANEOUS",
+            "serviceCode": null
+          },
+          "rateDetails": {
+            "currencyCode": "EUR",
+            "rateType": "Street Rate",
+            "chargeableWeight": 1000,
+            "chargeableWeightUnit": "K",
+            "totalAmount": 6000,
+            "discountedtotalAmount": 6000,
+            "discountPercentage": "0%",
+            "ratePerkilo": 6,
+            "contributionNotMet": false,
+            "chargesBreakDown": [
+              {
+                "chargeType": "Freight Charges",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 5000
+              },
+              {
+                "chargeType": "OCDC",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 1000
+              }
+            ]
+          },
+          "travelTime": 300,
+          "embargoNotificationRemarks": "****NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN",
+          "businessErrorSOs": [
+            {
+              "status": false,
+              "validationName": "Soft Embargo",
+              "reasonSummary": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "additionalMessage": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "reasonCode": "EMBARGO_CHECK",
+              "reasonDesc": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "boardPoint": null,
+              "putToHdqRmQ": false,
+              "addonStatus": null,
+              "node": null,
+              "queueTopic": null,
+              "remarks": null
+            }
+          ]
+        },
+        {
+          "requestRefId": "8357110",
+          "autoConfirm": false,
+          "origin": "FRA",
+          "destination": "DOH",
+          "flightItineraries": [
+            {
+              "carrierCode": "QR",
+              "carrierNumber": "9005",
+              "suffix": null,
+              "scheduledDepartureDate": "10-FEB-2023",
+              "scheduledArrivalDate": "10-FEB-2023",
+              "scheduledDepartureTime": "10-Feb-2023 06:00",
+              "scheduledArrivalTime": "10-Feb-2023 11:00",
+              "segmentOfArrival": "DOH",
+              "segmentOfDeparture": "FRA",
+              "dow": "Friday",
+              "dayChange": "0",
+              "allotmentCode": "",
+              "bookingStatus": "NN",
+              "iataEqpType": "789",
+              "carrierAircraftType": "789",
+              "tailNumber": null,
+              "operationType": "PAX",
+              "flightBookingStatus": "Open",
+              "shpFltMvtSts": null,
+              "flightOperationStatus": null,
+              "weight": 1000,
+              "volume": 0.18,
+              "pcs": 1,
+              "pendingWeight": null,
+              "pendingVolume": null,
+              "pendingPcs": null,
+              "operationalCarrierCode": null,
+              "operationalCarrierNumber": null
+            }
+          ],
+          "productCommodityDetails": {
+            "productCode": "GOLD",
+            "commodityCode": "9999",
+            "dgShipment": null,
+            "specialHandlingCodes": [
+              "GLD",
+              "SPX",
+              "HEA"
+            ],
+            "densityGroup": null,
+            "natureOfGoods": "MISCELLANEOUS",
+            "serviceCode": null
+          },
+          "rateDetails": {
+            "currencyCode": "EUR",
+            "rateType": "Street Rate",
+            "chargeableWeight": 1000,
+            "chargeableWeightUnit": "K",
+            "totalAmount": 6000,
+            "discountedtotalAmount": 6000,
+            "discountPercentage": "0%",
+            "ratePerkilo": 6,
+            "contributionNotMet": false,
+            "chargesBreakDown": [
+              {
+                "chargeType": "Freight Charges",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 5000
+              },
+              {
+                "chargeType": "OCDC",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 1000
+              }
+            ]
+          },
+          "travelTime": 300,
+          "embargoNotificationRemarks": "****NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN",
+          "businessErrorSOs": [
+            {
+              "status": false,
+              "validationName": "Soft Embargo",
+              "reasonSummary": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "additionalMessage": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "reasonCode": "EMBARGO_CHECK",
+              "reasonDesc": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "boardPoint": null,
+              "putToHdqRmQ": false,
+              "addonStatus": null,
+              "node": null,
+              "queueTopic": null,
+              "remarks": null
+            }
+          ]
+        },
+        {
+          "requestRefId": "8357103",
+          "autoConfirm": false,
+          "origin": "FRA",
+          "destination": "DOH",
+          "flightItineraries": [
+            {
+              "carrierCode": "QR",
+              "carrierNumber": "9955",
+              "suffix": "A",
+              "scheduledDepartureDate": "10-FEB-2023",
+              "scheduledArrivalDate": "11-FEB-2023",
+              "scheduledDepartureTime": "10-Feb-2023 23:00",
+              "scheduledArrivalTime": "11-Feb-2023 08:00",
+              "segmentOfArrival": "HEL",
+              "segmentOfDeparture": "FRA",
+              "dow": "Friday",
+              "dayChange": "0",
+              "allotmentCode": "",
+              "bookingStatus": "NN",
+              "iataEqpType": "RF01",
+              "carrierAircraftType": "RF01",
+              "tailNumber": null,
+              "operationType": "TRK",
+              "flightBookingStatus": "Open",
+              "shpFltMvtSts": null,
+              "flightOperationStatus": null,
+              "weight": 1000,
+              "volume": 0.18,
+              "pcs": 1,
+              "pendingWeight": null,
+              "pendingVolume": null,
+              "pendingPcs": null,
+              "operationalCarrierCode": null,
+              "operationalCarrierNumber": null
+            },
+            {
+              "carrierCode": "AY",
+              "carrierNumber": "1981",
+              "suffix": null,
+              "scheduledDepartureDate": "11-FEB-2023",
+              "scheduledArrivalDate": "11-FEB-2023",
+              "scheduledDepartureTime": "11-Feb-2023 16:00",
+              "scheduledArrivalTime": "11-Feb-2023 23:45",
+              "segmentOfArrival": "DOH",
+              "segmentOfDeparture": "HEL",
+              "dow": "Saturday",
+              "dayChange": "0",
+              "allotmentCode": "",
+              "bookingStatus": "NN",
+              "iataEqpType": "333",
+              "carrierAircraftType": "333H",
+              "tailNumber": null,
+              "operationType": "PAX",
+              "flightBookingStatus": "Open",
+              "shpFltMvtSts": null,
+              "flightOperationStatus": null,
+              "weight": 1000,
+              "volume": 0.18,
+              "pcs": 1,
+              "pendingWeight": null,
+              "pendingVolume": null,
+              "pendingPcs": null,
+              "operationalCarrierCode": null,
+              "operationalCarrierNumber": null
+            }
+          ],
+          "productCommodityDetails": {
+            "productCode": "GOLD",
+            "commodityCode": "9999",
+            "dgShipment": null,
+            "specialHandlingCodes": [
+              "GLD",
+              "SPX",
+              "HEA"
+            ],
+            "densityGroup": null,
+            "natureOfGoods": "MISCELLANEOUS",
+            "serviceCode": null
+          },
+          "rateDetails": {
+            "currencyCode": "EUR",
+            "rateType": "Street Rate",
+            "chargeableWeight": 1000,
+            "chargeableWeightUnit": "K",
+            "totalAmount": 6000,
+            "discountedtotalAmount": 6000,
+            "discountPercentage": "0%",
+            "ratePerkilo": 6,
+            "contributionNotMet": false,
+            "chargesBreakDown": [
+              {
+                "chargeType": "Freight Charges",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 5000
+              },
+              {
+                "chargeType": "OCDC",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 1000
+              }
+            ]
+          },
+          "travelTime": 1485,
+          "embargoNotificationRemarks": "****NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN",
+          "businessErrorSOs": [
+            {
+              "status": false,
+              "validationName": "Soft Embargo",
+              "reasonSummary": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "additionalMessage": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "reasonCode": "EMBARGO_CHECK",
+              "reasonDesc": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "boardPoint": null,
+              "putToHdqRmQ": false,
+              "addonStatus": null,
+              "node": null,
+              "queueTopic": null,
+              "remarks": null
+            }
+          ]
+        }
+      ],
+      "businessErrorSOs": []
+    },
+    {
+      "departureDate": "11-FEB-2023",
+      "availabilityResponseSOs": [
+        {
+          "requestRefId": "8357036",
+          "autoConfirm": false,
+          "origin": "FRA",
+          "destination": "DOH",
+          "flightItineraries": [
+            {
+              "carrierCode": "QR",
+              "carrierNumber": "9000",
+              "suffix": null,
+              "scheduledDepartureDate": "11-FEB-2023",
+              "scheduledArrivalDate": "11-FEB-2023",
+              "scheduledDepartureTime": "11-Feb-2023 01:00",
+              "scheduledArrivalTime": "11-Feb-2023 06:00",
+              "segmentOfArrival": "DOH",
+              "segmentOfDeparture": "FRA",
+              "dow": "Saturday",
+              "dayChange": "0",
+              "allotmentCode": "",
+              "bookingStatus": "NN",
+              "iataEqpType": "789",
+              "carrierAircraftType": "789",
+              "tailNumber": null,
+              "operationType": "PAX",
+              "flightBookingStatus": "Open",
+              "shpFltMvtSts": null,
+              "flightOperationStatus": null,
+              "weight": 1000,
+              "volume": 0.18,
+              "pcs": 1,
+              "pendingWeight": null,
+              "pendingVolume": null,
+              "pendingPcs": null,
+              "operationalCarrierCode": null,
+              "operationalCarrierNumber": null
+            }
+          ],
+          "productCommodityDetails": {
+            "productCode": "GOLD",
+            "commodityCode": "9999",
+            "dgShipment": null,
+            "specialHandlingCodes": [
+              "GLD",
+              "SPX",
+              "HEA"
+            ],
+            "densityGroup": null,
+            "natureOfGoods": "MISCELLANEOUS",
+            "serviceCode": null
+          },
+          "rateDetails": {
+            "currencyCode": "EUR",
+            "rateType": "Street Rate",
+            "chargeableWeight": 1000,
+            "chargeableWeightUnit": "K",
+            "totalAmount": 6000,
+            "discountedtotalAmount": 6000,
+            "discountPercentage": "0%",
+            "ratePerkilo": 6,
+            "contributionNotMet": false,
+            "chargesBreakDown": [
+              {
+                "chargeType": "Freight Charges",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 5000
+              },
+              {
+                "chargeType": "OCDC",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 1000
+              }
+            ]
+          },
+          "travelTime": 300,
+          "embargoNotificationRemarks": "****NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN",
+          "businessErrorSOs": [
+            {
+              "status": false,
+              "validationName": "Soft Embargo",
+              "reasonSummary": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "additionalMessage": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "reasonCode": "EMBARGO_CHECK",
+              "reasonDesc": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "boardPoint": null,
+              "putToHdqRmQ": false,
+              "addonStatus": null,
+              "node": null,
+              "queueTopic": null,
+              "remarks": null
+            }
+          ]
+        },
+        {
+          "requestRefId": "8357037",
+          "autoConfirm": false,
+          "origin": "FRA",
+          "destination": "DOH",
+          "flightItineraries": [
+            {
+              "carrierCode": "QR",
+              "carrierNumber": "9001",
+              "suffix": null,
+              "scheduledDepartureDate": "11-FEB-2023",
+              "scheduledArrivalDate": "11-FEB-2023",
+              "scheduledDepartureTime": "11-Feb-2023 02:00",
+              "scheduledArrivalTime": "11-Feb-2023 07:00",
+              "segmentOfArrival": "DOH",
+              "segmentOfDeparture": "FRA",
+              "dow": "Saturday",
+              "dayChange": "0",
+              "allotmentCode": "",
+              "bookingStatus": "NN",
+              "iataEqpType": "789",
+              "carrierAircraftType": "789",
+              "tailNumber": null,
+              "operationType": "PAX",
+              "flightBookingStatus": "Open",
+              "shpFltMvtSts": null,
+              "flightOperationStatus": null,
+              "weight": 1000,
+              "volume": 0.18,
+              "pcs": 1,
+              "pendingWeight": null,
+              "pendingVolume": null,
+              "pendingPcs": null,
+              "operationalCarrierCode": null,
+              "operationalCarrierNumber": null
+            }
+          ],
+          "productCommodityDetails": {
+            "productCode": "GOLD",
+            "commodityCode": "9999",
+            "dgShipment": null,
+            "specialHandlingCodes": [
+              "GLD",
+              "SPX",
+              "HEA"
+            ],
+            "densityGroup": null,
+            "natureOfGoods": "MISCELLANEOUS",
+            "serviceCode": null
+          },
+          "rateDetails": {
+            "currencyCode": "EUR",
+            "rateType": "Street Rate",
+            "chargeableWeight": 1000,
+            "chargeableWeightUnit": "K",
+            "totalAmount": 6000,
+            "discountedtotalAmount": 6000,
+            "discountPercentage": "0%",
+            "ratePerkilo": 6,
+            "contributionNotMet": false,
+            "chargesBreakDown": [
+              {
+                "chargeType": "Freight Charges",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 5000
+              },
+              {
+                "chargeType": "OCDC",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 1000
+              }
+            ]
+          },
+          "travelTime": 300,
+          "embargoNotificationRemarks": "****NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN",
+          "businessErrorSOs": [
+            {
+              "status": false,
+              "validationName": "Soft Embargo",
+              "reasonSummary": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "additionalMessage": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "reasonCode": "EMBARGO_CHECK",
+              "reasonDesc": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "boardPoint": null,
+              "putToHdqRmQ": false,
+              "addonStatus": null,
+              "node": null,
+              "queueTopic": null,
+              "remarks": null
+            }
+          ]
+        },
+        {
+          "requestRefId": "8357038",
+          "autoConfirm": false,
+          "origin": "FRA",
+          "destination": "DOH",
+          "flightItineraries": [
+            {
+              "carrierCode": "QR",
+              "carrierNumber": "9002",
+              "suffix": null,
+              "scheduledDepartureDate": "11-FEB-2023",
+              "scheduledArrivalDate": "11-FEB-2023",
+              "scheduledDepartureTime": "11-Feb-2023 03:00",
+              "scheduledArrivalTime": "11-Feb-2023 08:00",
+              "segmentOfArrival": "DOH",
+              "segmentOfDeparture": "FRA",
+              "dow": "Saturday",
+              "dayChange": "0",
+              "allotmentCode": "",
+              "bookingStatus": "NN",
+              "iataEqpType": "789",
+              "carrierAircraftType": "789",
+              "tailNumber": null,
+              "operationType": "PAX",
+              "flightBookingStatus": "Open",
+              "shpFltMvtSts": null,
+              "flightOperationStatus": null,
+              "weight": 1000,
+              "volume": 0.18,
+              "pcs": 1,
+              "pendingWeight": null,
+              "pendingVolume": null,
+              "pendingPcs": null,
+              "operationalCarrierCode": null,
+              "operationalCarrierNumber": null
+            }
+          ],
+          "productCommodityDetails": {
+            "productCode": "GOLD",
+            "commodityCode": "9999",
+            "dgShipment": null,
+            "specialHandlingCodes": [
+              "GLD",
+              "SPX",
+              "HEA"
+            ],
+            "densityGroup": null,
+            "natureOfGoods": "MISCELLANEOUS",
+            "serviceCode": null
+          },
+          "rateDetails": {
+            "currencyCode": "EUR",
+            "rateType": "Street Rate",
+            "chargeableWeight": 1000,
+            "chargeableWeightUnit": "K",
+            "totalAmount": 6000,
+            "discountedtotalAmount": 6000,
+            "discountPercentage": "0%",
+            "ratePerkilo": 6,
+            "contributionNotMet": false,
+            "chargesBreakDown": [
+              {
+                "chargeType": "Freight Charges",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 5000
+              },
+              {
+                "chargeType": "OCDC",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 1000
+              }
+            ]
+          },
+          "travelTime": 300,
+          "embargoNotificationRemarks": "****NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN",
+          "businessErrorSOs": [
+            {
+              "status": false,
+              "validationName": "Soft Embargo",
+              "reasonSummary": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "additionalMessage": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "reasonCode": "EMBARGO_CHECK",
+              "reasonDesc": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "boardPoint": null,
+              "putToHdqRmQ": false,
+              "addonStatus": null,
+              "node": null,
+              "queueTopic": null,
+              "remarks": null
+            }
+          ]
+        },
+        {
+          "requestRefId": "8357039",
+          "autoConfirm": false,
+          "origin": "FRA",
+          "destination": "DOH",
+          "flightItineraries": [
+            {
+              "carrierCode": "QR",
+              "carrierNumber": "6666",
+              "suffix": null,
+              "scheduledDepartureDate": "11-FEB-2023",
+              "scheduledArrivalDate": "11-FEB-2023",
+              "scheduledDepartureTime": "11-Feb-2023 00:30",
+              "scheduledArrivalTime": "11-Feb-2023 08:30",
+              "segmentOfArrival": "DOH",
+              "segmentOfDeparture": "FRA",
+              "dow": "Saturday",
+              "dayChange": "0",
+              "allotmentCode": "",
+              "bookingStatus": "NN",
+              "iataEqpType": "77W",
+              "carrierAircraftType": "77P",
+              "tailNumber": null,
+              "operationType": "PAX",
+              "flightBookingStatus": "Open",
+              "shpFltMvtSts": null,
+              "flightOperationStatus": null,
+              "weight": 1000,
+              "volume": 0.18,
+              "pcs": 1,
+              "pendingWeight": null,
+              "pendingVolume": null,
+              "pendingPcs": null,
+              "operationalCarrierCode": null,
+              "operationalCarrierNumber": null
+            }
+          ],
+          "productCommodityDetails": {
+            "productCode": "GOLD",
+            "commodityCode": "9999",
+            "dgShipment": null,
+            "specialHandlingCodes": [
+              "GLD",
+              "SPX",
+              "HEA"
+            ],
+            "densityGroup": null,
+            "natureOfGoods": "MISCELLANEOUS",
+            "serviceCode": null
+          },
+          "rateDetails": {
+            "currencyCode": "EUR",
+            "rateType": "Street Rate",
+            "chargeableWeight": 1000,
+            "chargeableWeightUnit": "K",
+            "totalAmount": 6000,
+            "discountedtotalAmount": 6000,
+            "discountPercentage": "0%",
+            "ratePerkilo": 6,
+            "contributionNotMet": false,
+            "chargesBreakDown": [
+              {
+                "chargeType": "Freight Charges",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 5000
+              },
+              {
+                "chargeType": "OCDC",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 1000
+              }
+            ]
+          },
+          "travelTime": 480,
+          "embargoNotificationRemarks": "****NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN",
+          "businessErrorSOs": [
+            {
+              "status": false,
+              "validationName": "Soft Embargo",
+              "reasonSummary": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "additionalMessage": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "reasonCode": "EMBARGO_CHECK",
+              "reasonDesc": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "boardPoint": null,
+              "putToHdqRmQ": false,
+              "addonStatus": null,
+              "node": null,
+              "queueTopic": null,
+              "remarks": null
+            }
+          ]
+        },
+        {
+          "requestRefId": "8357040",
+          "autoConfirm": false,
+          "origin": "FRA",
+          "destination": "DOH",
+          "flightItineraries": [
+            {
+              "carrierCode": "QR",
+              "carrierNumber": "9003",
+              "suffix": null,
+              "scheduledDepartureDate": "11-FEB-2023",
+              "scheduledArrivalDate": "11-FEB-2023",
+              "scheduledDepartureTime": "11-Feb-2023 04:00",
+              "scheduledArrivalTime": "11-Feb-2023 09:00",
+              "segmentOfArrival": "DOH",
+              "segmentOfDeparture": "FRA",
+              "dow": "Saturday",
+              "dayChange": "0",
+              "allotmentCode": "",
+              "bookingStatus": "NN",
+              "iataEqpType": "789",
+              "carrierAircraftType": "789",
+              "tailNumber": null,
+              "operationType": "PAX",
+              "flightBookingStatus": "Open",
+              "shpFltMvtSts": null,
+              "flightOperationStatus": null,
+              "weight": 1000,
+              "volume": 0.18,
+              "pcs": 1,
+              "pendingWeight": null,
+              "pendingVolume": null,
+              "pendingPcs": null,
+              "operationalCarrierCode": null,
+              "operationalCarrierNumber": null
+            }
+          ],
+          "productCommodityDetails": {
+            "productCode": "GOLD",
+            "commodityCode": "9999",
+            "dgShipment": null,
+            "specialHandlingCodes": [
+              "GLD",
+              "SPX",
+              "HEA"
+            ],
+            "densityGroup": null,
+            "natureOfGoods": "MISCELLANEOUS",
+            "serviceCode": null
+          },
+          "rateDetails": {
+            "currencyCode": "EUR",
+            "rateType": "Street Rate",
+            "chargeableWeight": 1000,
+            "chargeableWeightUnit": "K",
+            "totalAmount": 6000,
+            "discountedtotalAmount": 6000,
+            "discountPercentage": "0%",
+            "ratePerkilo": 6,
+            "contributionNotMet": false,
+            "chargesBreakDown": [
+              {
+                "chargeType": "Freight Charges",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 5000
+              },
+              {
+                "chargeType": "OCDC",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 1000
+              }
+            ]
+          },
+          "travelTime": 300,
+          "embargoNotificationRemarks": "****NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN",
+          "businessErrorSOs": [
+            {
+              "status": false,
+              "validationName": "Soft Embargo",
+              "reasonSummary": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "additionalMessage": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "reasonCode": "EMBARGO_CHECK",
+              "reasonDesc": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "boardPoint": null,
+              "putToHdqRmQ": false,
+              "addonStatus": null,
+              "node": null,
+              "queueTopic": null,
+              "remarks": null
+            }
+          ]
+        },
+        {
+          "requestRefId": "8357041",
+          "autoConfirm": false,
+          "origin": "FRA",
+          "destination": "DOH",
+          "flightItineraries": [
+            {
+              "carrierCode": "QR",
+              "carrierNumber": "9004",
+              "suffix": null,
+              "scheduledDepartureDate": "11-FEB-2023",
+              "scheduledArrivalDate": "11-FEB-2023",
+              "scheduledDepartureTime": "11-Feb-2023 04:00",
+              "scheduledArrivalTime": "11-Feb-2023 09:00",
+              "segmentOfArrival": "DOH",
+              "segmentOfDeparture": "FRA",
+              "dow": "Saturday",
+              "dayChange": "0",
+              "allotmentCode": "",
+              "bookingStatus": "NN",
+              "iataEqpType": "789",
+              "carrierAircraftType": "789",
+              "tailNumber": null,
+              "operationType": "PAX",
+              "flightBookingStatus": "Open",
+              "shpFltMvtSts": null,
+              "flightOperationStatus": null,
+              "weight": 1000,
+              "volume": 0.18,
+              "pcs": 1,
+              "pendingWeight": null,
+              "pendingVolume": null,
+              "pendingPcs": null,
+              "operationalCarrierCode": null,
+              "operationalCarrierNumber": null
+            }
+          ],
+          "productCommodityDetails": {
+            "productCode": "GOLD",
+            "commodityCode": "9999",
+            "dgShipment": null,
+            "specialHandlingCodes": [
+              "GLD",
+              "SPX",
+              "HEA"
+            ],
+            "densityGroup": null,
+            "natureOfGoods": "MISCELLANEOUS",
+            "serviceCode": null
+          },
+          "rateDetails": {
+            "currencyCode": "EUR",
+            "rateType": "Street Rate",
+            "chargeableWeight": 1000,
+            "chargeableWeightUnit": "K",
+            "totalAmount": 6000,
+            "discountedtotalAmount": 6000,
+            "discountPercentage": "0%",
+            "ratePerkilo": 6,
+            "contributionNotMet": false,
+            "chargesBreakDown": [
+              {
+                "chargeType": "Freight Charges",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 5000
+              },
+              {
+                "chargeType": "OCDC",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 1000
+              }
+            ]
+          },
+          "travelTime": 300,
+          "embargoNotificationRemarks": "****NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN",
+          "businessErrorSOs": [
+            {
+              "status": false,
+              "validationName": "Soft Embargo",
+              "reasonSummary": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "additionalMessage": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "reasonCode": "EMBARGO_CHECK",
+              "reasonDesc": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "boardPoint": null,
+              "putToHdqRmQ": false,
+              "addonStatus": null,
+              "node": null,
+              "queueTopic": null,
+              "remarks": null
+            }
+          ]
+        },
+        {
+          "requestRefId": "8357042",
+          "autoConfirm": false,
+          "origin": "FRA",
+          "destination": "DOH",
+          "flightItineraries": [
+            {
+              "carrierCode": "QR",
+              "carrierNumber": "9005",
+              "suffix": null,
+              "scheduledDepartureDate": "11-FEB-2023",
+              "scheduledArrivalDate": "11-FEB-2023",
+              "scheduledDepartureTime": "11-Feb-2023 06:00",
+              "scheduledArrivalTime": "11-Feb-2023 11:00",
+              "segmentOfArrival": "DOH",
+              "segmentOfDeparture": "FRA",
+              "dow": "Saturday",
+              "dayChange": "0",
+              "allotmentCode": "",
+              "bookingStatus": "NN",
+              "iataEqpType": "789",
+              "carrierAircraftType": "789",
+              "tailNumber": null,
+              "operationType": "PAX",
+              "flightBookingStatus": "Open",
+              "shpFltMvtSts": null,
+              "flightOperationStatus": null,
+              "weight": 1000,
+              "volume": 0.18,
+              "pcs": 1,
+              "pendingWeight": null,
+              "pendingVolume": null,
+              "pendingPcs": null,
+              "operationalCarrierCode": null,
+              "operationalCarrierNumber": null
+            }
+          ],
+          "productCommodityDetails": {
+            "productCode": "GOLD",
+            "commodityCode": "9999",
+            "dgShipment": null,
+            "specialHandlingCodes": [
+              "GLD",
+              "SPX",
+              "HEA"
+            ],
+            "densityGroup": null,
+            "natureOfGoods": "MISCELLANEOUS",
+            "serviceCode": null
+          },
+          "rateDetails": {
+            "currencyCode": "EUR",
+            "rateType": "Street Rate",
+            "chargeableWeight": 1000,
+            "chargeableWeightUnit": "K",
+            "totalAmount": 6000,
+            "discountedtotalAmount": 6000,
+            "discountPercentage": "0%",
+            "ratePerkilo": 6,
+            "contributionNotMet": false,
+            "chargesBreakDown": [
+              {
+                "chargeType": "Freight Charges",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 5000
+              },
+              {
+                "chargeType": "OCDC",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 1000
+              }
+            ]
+          },
+          "travelTime": 300,
+          "embargoNotificationRemarks": "****NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN",
+          "businessErrorSOs": [
+            {
+              "status": false,
+              "validationName": "Soft Embargo",
+              "reasonSummary": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "additionalMessage": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "reasonCode": "EMBARGO_CHECK",
+              "reasonDesc": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "boardPoint": null,
+              "putToHdqRmQ": false,
+              "addonStatus": null,
+              "node": null,
+              "queueTopic": null,
+              "remarks": null
+            }
+          ]
+        },
+        {
+          "requestRefId": "8357035",
+          "autoConfirm": false,
+          "origin": "FRA",
+          "destination": "DOH",
+          "flightItineraries": [
+            {
+              "carrierCode": "QR",
+              "carrierNumber": "9955",
+              "suffix": "A",
+              "scheduledDepartureDate": "11-FEB-2023",
+              "scheduledArrivalDate": "12-FEB-2023",
+              "scheduledDepartureTime": "11-Feb-2023 23:00",
+              "scheduledArrivalTime": "12-Feb-2023 08:00",
+              "segmentOfArrival": "HEL",
+              "segmentOfDeparture": "FRA",
+              "dow": "Saturday",
+              "dayChange": "0",
+              "allotmentCode": "",
+              "bookingStatus": "NN",
+              "iataEqpType": "RF01",
+              "carrierAircraftType": "RF01",
+              "tailNumber": null,
+              "operationType": "TRK",
+              "flightBookingStatus": "Open",
+              "shpFltMvtSts": null,
+              "flightOperationStatus": null,
+              "weight": 1000,
+              "volume": 0.18,
+              "pcs": 1,
+              "pendingWeight": null,
+              "pendingVolume": null,
+              "pendingPcs": null,
+              "operationalCarrierCode": null,
+              "operationalCarrierNumber": null
+            },
+            {
+              "carrierCode": "AY",
+              "carrierNumber": "1981",
+              "suffix": null,
+              "scheduledDepartureDate": "12-FEB-2023",
+              "scheduledArrivalDate": "12-FEB-2023",
+              "scheduledDepartureTime": "12-Feb-2023 16:00",
+              "scheduledArrivalTime": "12-Feb-2023 23:45",
+              "segmentOfArrival": "DOH",
+              "segmentOfDeparture": "HEL",
+              "dow": "Sunday",
+              "dayChange": "0",
+              "allotmentCode": "",
+              "bookingStatus": "NN",
+              "iataEqpType": "333",
+              "carrierAircraftType": "333H",
+              "tailNumber": null,
+              "operationType": "PAX",
+              "flightBookingStatus": "Open",
+              "shpFltMvtSts": null,
+              "flightOperationStatus": null,
+              "weight": 1000,
+              "volume": 0.18,
+              "pcs": 1,
+              "pendingWeight": null,
+              "pendingVolume": null,
+              "pendingPcs": null,
+              "operationalCarrierCode": null,
+              "operationalCarrierNumber": null
+            }
+          ],
+          "productCommodityDetails": {
+            "productCode": "GOLD",
+            "commodityCode": "9999",
+            "dgShipment": null,
+            "specialHandlingCodes": [
+              "GLD",
+              "SPX",
+              "HEA"
+            ],
+            "densityGroup": null,
+            "natureOfGoods": "MISCELLANEOUS",
+            "serviceCode": null
+          },
+          "rateDetails": {
+            "currencyCode": "EUR",
+            "rateType": "Street Rate",
+            "chargeableWeight": 1000,
+            "chargeableWeightUnit": "K",
+            "totalAmount": 6000,
+            "discountedtotalAmount": 6000,
+            "discountPercentage": "0%",
+            "ratePerkilo": 6,
+            "contributionNotMet": false,
+            "chargesBreakDown": [
+              {
+                "chargeType": "Freight Charges",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 5000
+              },
+              {
+                "chargeType": "OCDC",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 1000
+              }
+            ]
+          },
+          "travelTime": 1485,
+          "embargoNotificationRemarks": "****NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN",
+          "businessErrorSOs": [
+            {
+              "status": false,
+              "validationName": "Soft Embargo",
+              "reasonSummary": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "additionalMessage": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "reasonCode": "EMBARGO_CHECK",
+              "reasonDesc": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "boardPoint": null,
+              "putToHdqRmQ": false,
+              "addonStatus": null,
+              "node": null,
+              "queueTopic": null,
+              "remarks": null
+            }
+          ]
+        }
+      ],
+      "businessErrorSOs": []
+    },
+    {
+      "departureDate": "12-FEB-2023",
+      "availabilityResponseSOs": [
+        {
+          "requestRefId": "8357142",
+          "autoConfirm": false,
+          "origin": "FRA",
+          "destination": "DOH",
+          "flightItineraries": [
+            {
+              "carrierCode": "QR",
+              "carrierNumber": "9000",
+              "suffix": null,
+              "scheduledDepartureDate": "12-FEB-2023",
+              "scheduledArrivalDate": "12-FEB-2023",
+              "scheduledDepartureTime": "12-Feb-2023 01:00",
+              "scheduledArrivalTime": "12-Feb-2023 06:00",
+              "segmentOfArrival": "DOH",
+              "segmentOfDeparture": "FRA",
+              "dow": "Sunday",
+              "dayChange": "0",
+              "allotmentCode": "",
+              "bookingStatus": "NN",
+              "iataEqpType": "789",
+              "carrierAircraftType": "789",
+              "tailNumber": null,
+              "operationType": "PAX",
+              "flightBookingStatus": "Open",
+              "shpFltMvtSts": null,
+              "flightOperationStatus": null,
+              "weight": 1000,
+              "volume": 0.18,
+              "pcs": 1,
+              "pendingWeight": null,
+              "pendingVolume": null,
+              "pendingPcs": null,
+              "operationalCarrierCode": null,
+              "operationalCarrierNumber": null
+            }
+          ],
+          "productCommodityDetails": {
+            "productCode": "GOLD",
+            "commodityCode": "9999",
+            "dgShipment": null,
+            "specialHandlingCodes": [
+              "GLD",
+              "SPX",
+              "HEA"
+            ],
+            "densityGroup": null,
+            "natureOfGoods": "MISCELLANEOUS",
+            "serviceCode": null
+          },
+          "rateDetails": {
+            "currencyCode": "EUR",
+            "rateType": "Street Rate",
+            "chargeableWeight": 1000,
+            "chargeableWeightUnit": "K",
+            "totalAmount": 6000,
+            "discountedtotalAmount": 6000,
+            "discountPercentage": "0%",
+            "ratePerkilo": 6,
+            "contributionNotMet": false,
+            "chargesBreakDown": [
+              {
+                "chargeType": "Freight Charges",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 5000
+              },
+              {
+                "chargeType": "OCDC",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 1000
+              }
+            ]
+          },
+          "travelTime": 300,
+          "embargoNotificationRemarks": "****NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN",
+          "businessErrorSOs": [
+            {
+              "status": false,
+              "validationName": "Soft Embargo",
+              "reasonSummary": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "additionalMessage": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "reasonCode": "EMBARGO_CHECK",
+              "reasonDesc": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "boardPoint": null,
+              "putToHdqRmQ": false,
+              "addonStatus": null,
+              "node": null,
+              "queueTopic": null,
+              "remarks": null
+            }
+          ]
+        },
+        {
+          "requestRefId": "8357143",
+          "autoConfirm": false,
+          "origin": "FRA",
+          "destination": "DOH",
+          "flightItineraries": [
+            {
+              "carrierCode": "QR",
+              "carrierNumber": "9001",
+              "suffix": null,
+              "scheduledDepartureDate": "12-FEB-2023",
+              "scheduledArrivalDate": "12-FEB-2023",
+              "scheduledDepartureTime": "12-Feb-2023 02:00",
+              "scheduledArrivalTime": "12-Feb-2023 07:00",
+              "segmentOfArrival": "DOH",
+              "segmentOfDeparture": "FRA",
+              "dow": "Sunday",
+              "dayChange": "0",
+              "allotmentCode": "",
+              "bookingStatus": "NN",
+              "iataEqpType": "789",
+              "carrierAircraftType": "789",
+              "tailNumber": null,
+              "operationType": "PAX",
+              "flightBookingStatus": "Open",
+              "shpFltMvtSts": null,
+              "flightOperationStatus": null,
+              "weight": 1000,
+              "volume": 0.18,
+              "pcs": 1,
+              "pendingWeight": null,
+              "pendingVolume": null,
+              "pendingPcs": null,
+              "operationalCarrierCode": null,
+              "operationalCarrierNumber": null
+            }
+          ],
+          "productCommodityDetails": {
+            "productCode": "GOLD",
+            "commodityCode": "9999",
+            "dgShipment": null,
+            "specialHandlingCodes": [
+              "GLD",
+              "SPX",
+              "HEA"
+            ],
+            "densityGroup": null,
+            "natureOfGoods": "MISCELLANEOUS",
+            "serviceCode": null
+          },
+          "rateDetails": {
+            "currencyCode": "EUR",
+            "rateType": "Street Rate",
+            "chargeableWeight": 1000,
+            "chargeableWeightUnit": "K",
+            "totalAmount": 6000,
+            "discountedtotalAmount": 6000,
+            "discountPercentage": "0%",
+            "ratePerkilo": 6,
+            "contributionNotMet": false,
+            "chargesBreakDown": [
+              {
+                "chargeType": "Freight Charges",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 5000
+              },
+              {
+                "chargeType": "OCDC",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 1000
+              }
+            ]
+          },
+          "travelTime": 300,
+          "embargoNotificationRemarks": "****NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN",
+          "businessErrorSOs": [
+            {
+              "status": false,
+              "validationName": "Soft Embargo",
+              "reasonSummary": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "additionalMessage": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "reasonCode": "EMBARGO_CHECK",
+              "reasonDesc": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "boardPoint": null,
+              "putToHdqRmQ": false,
+              "addonStatus": null,
+              "node": null,
+              "queueTopic": null,
+              "remarks": null
+            }
+          ]
+        },
+        {
+          "requestRefId": "8357144",
+          "autoConfirm": false,
+          "origin": "FRA",
+          "destination": "DOH",
+          "flightItineraries": [
+            {
+              "carrierCode": "QR",
+              "carrierNumber": "9002",
+              "suffix": null,
+              "scheduledDepartureDate": "12-FEB-2023",
+              "scheduledArrivalDate": "12-FEB-2023",
+              "scheduledDepartureTime": "12-Feb-2023 03:00",
+              "scheduledArrivalTime": "12-Feb-2023 08:00",
+              "segmentOfArrival": "DOH",
+              "segmentOfDeparture": "FRA",
+              "dow": "Sunday",
+              "dayChange": "0",
+              "allotmentCode": "",
+              "bookingStatus": "NN",
+              "iataEqpType": "789",
+              "carrierAircraftType": "789",
+              "tailNumber": null,
+              "operationType": "PAX",
+              "flightBookingStatus": "Open",
+              "shpFltMvtSts": null,
+              "flightOperationStatus": null,
+              "weight": 1000,
+              "volume": 0.18,
+              "pcs": 1,
+              "pendingWeight": null,
+              "pendingVolume": null,
+              "pendingPcs": null,
+              "operationalCarrierCode": null,
+              "operationalCarrierNumber": null
+            }
+          ],
+          "productCommodityDetails": {
+            "productCode": "GOLD",
+            "commodityCode": "9999",
+            "dgShipment": null,
+            "specialHandlingCodes": [
+              "GLD",
+              "SPX",
+              "HEA"
+            ],
+            "densityGroup": null,
+            "natureOfGoods": "MISCELLANEOUS",
+            "serviceCode": null
+          },
+          "rateDetails": {
+            "currencyCode": "EUR",
+            "rateType": "Street Rate",
+            "chargeableWeight": 1000,
+            "chargeableWeightUnit": "K",
+            "totalAmount": 6000,
+            "discountedtotalAmount": 6000,
+            "discountPercentage": "0%",
+            "ratePerkilo": 6,
+            "contributionNotMet": false,
+            "chargesBreakDown": [
+              {
+                "chargeType": "Freight Charges",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 5000
+              },
+              {
+                "chargeType": "OCDC",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 1000
+              }
+            ]
+          },
+          "travelTime": 300,
+          "embargoNotificationRemarks": "****NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN",
+          "businessErrorSOs": [
+            {
+              "status": false,
+              "validationName": "Soft Embargo",
+              "reasonSummary": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "additionalMessage": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "reasonCode": "EMBARGO_CHECK",
+              "reasonDesc": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "boardPoint": null,
+              "putToHdqRmQ": false,
+              "addonStatus": null,
+              "node": null,
+              "queueTopic": null,
+              "remarks": null
+            }
+          ]
+        },
+        {
+          "requestRefId": "8357145",
+          "autoConfirm": false,
+          "origin": "FRA",
+          "destination": "DOH",
+          "flightItineraries": [
+            {
+              "carrierCode": "QR",
+              "carrierNumber": "6666",
+              "suffix": null,
+              "scheduledDepartureDate": "12-FEB-2023",
+              "scheduledArrivalDate": "12-FEB-2023",
+              "scheduledDepartureTime": "12-Feb-2023 00:30",
+              "scheduledArrivalTime": "12-Feb-2023 08:30",
+              "segmentOfArrival": "DOH",
+              "segmentOfDeparture": "FRA",
+              "dow": "Sunday",
+              "dayChange": "0",
+              "allotmentCode": "",
+              "bookingStatus": "NN",
+              "iataEqpType": "77W",
+              "carrierAircraftType": "77P",
+              "tailNumber": null,
+              "operationType": "PAX",
+              "flightBookingStatus": "Open",
+              "shpFltMvtSts": null,
+              "flightOperationStatus": null,
+              "weight": 1000,
+              "volume": 0.18,
+              "pcs": 1,
+              "pendingWeight": null,
+              "pendingVolume": null,
+              "pendingPcs": null,
+              "operationalCarrierCode": null,
+              "operationalCarrierNumber": null
+            }
+          ],
+          "productCommodityDetails": {
+            "productCode": "GOLD",
+            "commodityCode": "9999",
+            "dgShipment": null,
+            "specialHandlingCodes": [
+              "GLD",
+              "SPX",
+              "HEA"
+            ],
+            "densityGroup": null,
+            "natureOfGoods": "MISCELLANEOUS",
+            "serviceCode": null
+          },
+          "rateDetails": {
+            "currencyCode": "EUR",
+            "rateType": "Street Rate",
+            "chargeableWeight": 1000,
+            "chargeableWeightUnit": "K",
+            "totalAmount": 6000,
+            "discountedtotalAmount": 6000,
+            "discountPercentage": "0%",
+            "ratePerkilo": 6,
+            "contributionNotMet": false,
+            "chargesBreakDown": [
+              {
+                "chargeType": "Freight Charges",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 5000
+              },
+              {
+                "chargeType": "OCDC",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 1000
+              }
+            ]
+          },
+          "travelTime": 480,
+          "embargoNotificationRemarks": "****NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN",
+          "businessErrorSOs": [
+            {
+              "status": false,
+              "validationName": "Soft Embargo",
+              "reasonSummary": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "additionalMessage": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "reasonCode": "EMBARGO_CHECK",
+              "reasonDesc": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "boardPoint": null,
+              "putToHdqRmQ": false,
+              "addonStatus": null,
+              "node": null,
+              "queueTopic": null,
+              "remarks": null
+            }
+          ]
+        },
+        {
+          "requestRefId": "8357146",
+          "autoConfirm": false,
+          "origin": "FRA",
+          "destination": "DOH",
+          "flightItineraries": [
+            {
+              "carrierCode": "QR",
+              "carrierNumber": "9004",
+              "suffix": null,
+              "scheduledDepartureDate": "12-FEB-2023",
+              "scheduledArrivalDate": "12-FEB-2023",
+              "scheduledDepartureTime": "12-Feb-2023 04:00",
+              "scheduledArrivalTime": "12-Feb-2023 09:00",
+              "segmentOfArrival": "DOH",
+              "segmentOfDeparture": "FRA",
+              "dow": "Sunday",
+              "dayChange": "0",
+              "allotmentCode": "",
+              "bookingStatus": "NN",
+              "iataEqpType": "789",
+              "carrierAircraftType": "789",
+              "tailNumber": null,
+              "operationType": "PAX",
+              "flightBookingStatus": "Open",
+              "shpFltMvtSts": null,
+              "flightOperationStatus": null,
+              "weight": 1000,
+              "volume": 0.18,
+              "pcs": 1,
+              "pendingWeight": null,
+              "pendingVolume": null,
+              "pendingPcs": null,
+              "operationalCarrierCode": null,
+              "operationalCarrierNumber": null
+            }
+          ],
+          "productCommodityDetails": {
+            "productCode": "GOLD",
+            "commodityCode": "9999",
+            "dgShipment": null,
+            "specialHandlingCodes": [
+              "GLD",
+              "SPX",
+              "HEA"
+            ],
+            "densityGroup": null,
+            "natureOfGoods": "MISCELLANEOUS",
+            "serviceCode": null
+          },
+          "rateDetails": {
+            "currencyCode": "EUR",
+            "rateType": "Street Rate",
+            "chargeableWeight": 1000,
+            "chargeableWeightUnit": "K",
+            "totalAmount": 6000,
+            "discountedtotalAmount": 6000,
+            "discountPercentage": "0%",
+            "ratePerkilo": 6,
+            "contributionNotMet": false,
+            "chargesBreakDown": [
+              {
+                "chargeType": "Freight Charges",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 5000
+              },
+              {
+                "chargeType": "OCDC",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 1000
+              }
+            ]
+          },
+          "travelTime": 300,
+          "embargoNotificationRemarks": "****NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN",
+          "businessErrorSOs": [
+            {
+              "status": false,
+              "validationName": "Soft Embargo",
+              "reasonSummary": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "additionalMessage": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "reasonCode": "EMBARGO_CHECK",
+              "reasonDesc": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "boardPoint": null,
+              "putToHdqRmQ": false,
+              "addonStatus": null,
+              "node": null,
+              "queueTopic": null,
+              "remarks": null
+            }
+          ]
+        },
+        {
+          "requestRefId": "8357147",
+          "autoConfirm": false,
+          "origin": "FRA",
+          "destination": "DOH",
+          "flightItineraries": [
+            {
+              "carrierCode": "QR",
+              "carrierNumber": "9003",
+              "suffix": null,
+              "scheduledDepartureDate": "12-FEB-2023",
+              "scheduledArrivalDate": "12-FEB-2023",
+              "scheduledDepartureTime": "12-Feb-2023 04:00",
+              "scheduledArrivalTime": "12-Feb-2023 09:00",
+              "segmentOfArrival": "DOH",
+              "segmentOfDeparture": "FRA",
+              "dow": "Sunday",
+              "dayChange": "0",
+              "allotmentCode": "",
+              "bookingStatus": "NN",
+              "iataEqpType": "789",
+              "carrierAircraftType": "789",
+              "tailNumber": null,
+              "operationType": "PAX",
+              "flightBookingStatus": "Open",
+              "shpFltMvtSts": null,
+              "flightOperationStatus": null,
+              "weight": 1000,
+              "volume": 0.18,
+              "pcs": 1,
+              "pendingWeight": null,
+              "pendingVolume": null,
+              "pendingPcs": null,
+              "operationalCarrierCode": null,
+              "operationalCarrierNumber": null
+            }
+          ],
+          "productCommodityDetails": {
+            "productCode": "GOLD",
+            "commodityCode": "9999",
+            "dgShipment": null,
+            "specialHandlingCodes": [
+              "GLD",
+              "SPX",
+              "HEA"
+            ],
+            "densityGroup": null,
+            "natureOfGoods": "MISCELLANEOUS",
+            "serviceCode": null
+          },
+          "rateDetails": {
+            "currencyCode": "EUR",
+            "rateType": "Street Rate",
+            "chargeableWeight": 1000,
+            "chargeableWeightUnit": "K",
+            "totalAmount": 6000,
+            "discountedtotalAmount": 6000,
+            "discountPercentage": "0%",
+            "ratePerkilo": 6,
+            "contributionNotMet": false,
+            "chargesBreakDown": [
+              {
+                "chargeType": "Freight Charges",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 5000
+              },
+              {
+                "chargeType": "OCDC",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 1000
+              }
+            ]
+          },
+          "travelTime": 300,
+          "embargoNotificationRemarks": "****NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN",
+          "businessErrorSOs": [
+            {
+              "status": false,
+              "validationName": "Soft Embargo",
+              "reasonSummary": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "additionalMessage": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "reasonCode": "EMBARGO_CHECK",
+              "reasonDesc": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "boardPoint": null,
+              "putToHdqRmQ": false,
+              "addonStatus": null,
+              "node": null,
+              "queueTopic": null,
+              "remarks": null
+            }
+          ]
+        },
+        {
+          "requestRefId": "8357148",
+          "autoConfirm": false,
+          "origin": "FRA",
+          "destination": "DOH",
+          "flightItineraries": [
+            {
+              "carrierCode": "QR",
+              "carrierNumber": "9005",
+              "suffix": null,
+              "scheduledDepartureDate": "12-FEB-2023",
+              "scheduledArrivalDate": "12-FEB-2023",
+              "scheduledDepartureTime": "12-Feb-2023 06:00",
+              "scheduledArrivalTime": "12-Feb-2023 11:00",
+              "segmentOfArrival": "DOH",
+              "segmentOfDeparture": "FRA",
+              "dow": "Sunday",
+              "dayChange": "0",
+              "allotmentCode": "",
+              "bookingStatus": "NN",
+              "iataEqpType": "789",
+              "carrierAircraftType": "789",
+              "tailNumber": null,
+              "operationType": "PAX",
+              "flightBookingStatus": "Open",
+              "shpFltMvtSts": null,
+              "flightOperationStatus": null,
+              "weight": 1000,
+              "volume": 0.18,
+              "pcs": 1,
+              "pendingWeight": null,
+              "pendingVolume": null,
+              "pendingPcs": null,
+              "operationalCarrierCode": null,
+              "operationalCarrierNumber": null
+            }
+          ],
+          "productCommodityDetails": {
+            "productCode": "GOLD",
+            "commodityCode": "9999",
+            "dgShipment": null,
+            "specialHandlingCodes": [
+              "GLD",
+              "SPX",
+              "HEA"
+            ],
+            "densityGroup": null,
+            "natureOfGoods": "MISCELLANEOUS",
+            "serviceCode": null
+          },
+          "rateDetails": {
+            "currencyCode": "EUR",
+            "rateType": "Street Rate",
+            "chargeableWeight": 1000,
+            "chargeableWeightUnit": "K",
+            "totalAmount": 6000,
+            "discountedtotalAmount": 6000,
+            "discountPercentage": "0%",
+            "ratePerkilo": 6,
+            "contributionNotMet": false,
+            "chargesBreakDown": [
+              {
+                "chargeType": "Freight Charges",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 5000
+              },
+              {
+                "chargeType": "OCDC",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 1000
+              }
+            ]
+          },
+          "travelTime": 300,
+          "embargoNotificationRemarks": "****NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN",
+          "businessErrorSOs": [
+            {
+              "status": false,
+              "validationName": "Soft Embargo",
+              "reasonSummary": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "additionalMessage": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "reasonCode": "EMBARGO_CHECK",
+              "reasonDesc": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "boardPoint": null,
+              "putToHdqRmQ": false,
+              "addonStatus": null,
+              "node": null,
+              "queueTopic": null,
+              "remarks": null
+            }
+          ]
+        },
+        {
+          "requestRefId": "8357141",
+          "autoConfirm": false,
+          "origin": "FRA",
+          "destination": "DOH",
+          "flightItineraries": [
+            {
+              "carrierCode": "QR",
+              "carrierNumber": "9304",
+              "suffix": "C",
+              "scheduledDepartureDate": "12-FEB-2023",
+              "scheduledArrivalDate": "13-FEB-2023",
+              "scheduledDepartureTime": "12-Feb-2023 23:59",
+              "scheduledArrivalTime": "13-Feb-2023 09:00",
+              "segmentOfArrival": "DUS",
+              "segmentOfDeparture": "FRA",
+              "dow": "Sunday",
+              "dayChange": "0",
+              "allotmentCode": "",
+              "bookingStatus": "NN",
+              "iataEqpType": "RF01",
+              "carrierAircraftType": "RF01",
+              "tailNumber": null,
+              "operationType": "TRK",
+              "flightBookingStatus": "Open",
+              "shpFltMvtSts": null,
+              "flightOperationStatus": null,
+              "weight": 1000,
+              "volume": 0.18,
+              "pcs": 1,
+              "pendingWeight": null,
+              "pendingVolume": null,
+              "pendingPcs": null,
+              "operationalCarrierCode": null,
+              "operationalCarrierNumber": null
+            },
+            {
+              "carrierCode": "QR",
+              "carrierNumber": "0086",
+              "suffix": null,
+              "scheduledDepartureDate": "13-FEB-2023",
+              "scheduledArrivalDate": "13-FEB-2023",
+              "scheduledDepartureTime": "13-Feb-2023 15:05",
+              "scheduledArrivalTime": "13-Feb-2023 22:55",
+              "segmentOfArrival": "DOH",
+              "segmentOfDeparture": "DUS",
+              "dow": "Monday",
+              "dayChange": "0",
+              "allotmentCode": "",
+              "bookingStatus": "NN",
+              "iataEqpType": "788",
+              "carrierAircraftType": "788",
+              "tailNumber": null,
+              "operationType": "PAX",
+              "flightBookingStatus": "Open",
+              "shpFltMvtSts": null,
+              "flightOperationStatus": null,
+              "weight": 1000,
+              "volume": 0.18,
+              "pcs": 1,
+              "pendingWeight": null,
+              "pendingVolume": null,
+              "pendingPcs": null,
+              "operationalCarrierCode": null,
+              "operationalCarrierNumber": null
+            }
+          ],
+          "productCommodityDetails": {
+            "productCode": "GOLD",
+            "commodityCode": "9999",
+            "dgShipment": null,
+            "specialHandlingCodes": [
+              "GLD",
+              "SPX",
+              "HEA"
+            ],
+            "densityGroup": null,
+            "natureOfGoods": "MISCELLANEOUS",
+            "serviceCode": null
+          },
+          "rateDetails": {
+            "currencyCode": "EUR",
+            "rateType": "Street Rate",
+            "chargeableWeight": 1000,
+            "chargeableWeightUnit": "K",
+            "totalAmount": 6000,
+            "discountedtotalAmount": 6000,
+            "discountPercentage": "0%",
+            "ratePerkilo": 6,
+            "contributionNotMet": false,
+            "chargesBreakDown": [
+              {
+                "chargeType": "Freight Charges",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 5000
+              },
+              {
+                "chargeType": "OCDC",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 1000
+              }
+            ]
+          },
+          "travelTime": 1376,
+          "embargoNotificationRemarks": "****NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN",
+          "businessErrorSOs": [
+            {
+              "status": false,
+              "validationName": "Soft Embargo",
+              "reasonSummary": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "additionalMessage": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "reasonCode": "EMBARGO_CHECK",
+              "reasonDesc": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "boardPoint": null,
+              "putToHdqRmQ": false,
+              "addonStatus": null,
+              "node": null,
+              "queueTopic": null,
+              "remarks": null
+            }
+          ]
+        },
+        {
+          "requestRefId": "8357140",
+          "autoConfirm": false,
+          "origin": "FRA",
+          "destination": "DOH",
+          "flightItineraries": [
+            {
+              "carrierCode": "QR",
+              "carrierNumber": "9955",
+              "suffix": "A",
+              "scheduledDepartureDate": "12-FEB-2023",
+              "scheduledArrivalDate": "13-FEB-2023",
+              "scheduledDepartureTime": "12-Feb-2023 23:00",
+              "scheduledArrivalTime": "13-Feb-2023 08:00",
+              "segmentOfArrival": "HEL",
+              "segmentOfDeparture": "FRA",
+              "dow": "Sunday",
+              "dayChange": "0",
+              "allotmentCode": "",
+              "bookingStatus": "NN",
+              "iataEqpType": "RF01",
+              "carrierAircraftType": "RF01",
+              "tailNumber": null,
+              "operationType": "TRK",
+              "flightBookingStatus": "Open",
+              "shpFltMvtSts": null,
+              "flightOperationStatus": null,
+              "weight": 1000,
+              "volume": 0.18,
+              "pcs": 1,
+              "pendingWeight": null,
+              "pendingVolume": null,
+              "pendingPcs": null,
+              "operationalCarrierCode": null,
+              "operationalCarrierNumber": null
+            },
+            {
+              "carrierCode": "AY",
+              "carrierNumber": "1981",
+              "suffix": null,
+              "scheduledDepartureDate": "13-FEB-2023",
+              "scheduledArrivalDate": "13-FEB-2023",
+              "scheduledDepartureTime": "13-Feb-2023 16:00",
+              "scheduledArrivalTime": "13-Feb-2023 23:45",
+              "segmentOfArrival": "DOH",
+              "segmentOfDeparture": "HEL",
+              "dow": "Monday",
+              "dayChange": "0",
+              "allotmentCode": "",
+              "bookingStatus": "NN",
+              "iataEqpType": "333",
+              "carrierAircraftType": "333H",
+              "tailNumber": null,
+              "operationType": "PAX",
+              "flightBookingStatus": "Open",
+              "shpFltMvtSts": null,
+              "flightOperationStatus": null,
+              "weight": 1000,
+              "volume": 0.18,
+              "pcs": 1,
+              "pendingWeight": null,
+              "pendingVolume": null,
+              "pendingPcs": null,
+              "operationalCarrierCode": null,
+              "operationalCarrierNumber": null
+            }
+          ],
+          "productCommodityDetails": {
+            "productCode": "GOLD",
+            "commodityCode": "9999",
+            "dgShipment": null,
+            "specialHandlingCodes": [
+              "GLD",
+              "SPX",
+              "HEA"
+            ],
+            "densityGroup": null,
+            "natureOfGoods": "MISCELLANEOUS",
+            "serviceCode": null
+          },
+          "rateDetails": {
+            "currencyCode": "EUR",
+            "rateType": "Street Rate",
+            "chargeableWeight": 1000,
+            "chargeableWeightUnit": "K",
+            "totalAmount": 6000,
+            "discountedtotalAmount": 6000,
+            "discountPercentage": "0%",
+            "ratePerkilo": 6,
+            "contributionNotMet": false,
+            "chargesBreakDown": [
+              {
+                "chargeType": "Freight Charges",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 5000
+              },
+              {
+                "chargeType": "OCDC",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 1000
+              }
+            ]
+          },
+          "travelTime": 1485,
+          "embargoNotificationRemarks": "****NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN",
+          "businessErrorSOs": [
+            {
+              "status": false,
+              "validationName": "Soft Embargo",
+              "reasonSummary": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "additionalMessage": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "reasonCode": "EMBARGO_CHECK",
+              "reasonDesc": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "boardPoint": null,
+              "putToHdqRmQ": false,
+              "addonStatus": null,
+              "node": null,
+              "queueTopic": null,
+              "remarks": null
+            }
+          ]
+        }
+      ],
+      "businessErrorSOs": []
+    },
+    {
+      "departureDate": "13-FEB-2023",
+      "availabilityResponseSOs": [
+        {
+          "requestRefId": "8357189",
+          "autoConfirm": false,
+          "origin": "FRA",
+          "destination": "DOH",
+          "flightItineraries": [
+            {
+              "carrierCode": "QR",
+              "carrierNumber": "9000",
+              "suffix": null,
+              "scheduledDepartureDate": "13-FEB-2023",
+              "scheduledArrivalDate": "13-FEB-2023",
+              "scheduledDepartureTime": "13-Feb-2023 01:00",
+              "scheduledArrivalTime": "13-Feb-2023 06:00",
+              "segmentOfArrival": "DOH",
+              "segmentOfDeparture": "FRA",
+              "dow": "Monday",
+              "dayChange": "0",
+              "allotmentCode": "",
+              "bookingStatus": "NN",
+              "iataEqpType": "789",
+              "carrierAircraftType": "789",
+              "tailNumber": null,
+              "operationType": "PAX",
+              "flightBookingStatus": "Open",
+              "shpFltMvtSts": null,
+              "flightOperationStatus": null,
+              "weight": 1000,
+              "volume": 0.18,
+              "pcs": 1,
+              "pendingWeight": null,
+              "pendingVolume": null,
+              "pendingPcs": null,
+              "operationalCarrierCode": null,
+              "operationalCarrierNumber": null
+            }
+          ],
+          "productCommodityDetails": {
+            "productCode": "GOLD",
+            "commodityCode": "9999",
+            "dgShipment": null,
+            "specialHandlingCodes": [
+              "GLD",
+              "SPX",
+              "HEA"
+            ],
+            "densityGroup": null,
+            "natureOfGoods": "MISCELLANEOUS",
+            "serviceCode": null
+          },
+          "rateDetails": {
+            "currencyCode": "EUR",
+            "rateType": "Street Rate",
+            "chargeableWeight": 1000,
+            "chargeableWeightUnit": "K",
+            "totalAmount": 6000,
+            "discountedtotalAmount": 6000,
+            "discountPercentage": "0%",
+            "ratePerkilo": 6,
+            "contributionNotMet": false,
+            "chargesBreakDown": [
+              {
+                "chargeType": "Freight Charges",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 5000
+              },
+              {
+                "chargeType": "OCDC",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 1000
+              }
+            ]
+          },
+          "travelTime": 300,
+          "embargoNotificationRemarks": "****NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN",
+          "businessErrorSOs": [
+            {
+              "status": false,
+              "validationName": "Soft Embargo",
+              "reasonSummary": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "additionalMessage": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "reasonCode": "EMBARGO_CHECK",
+              "reasonDesc": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "boardPoint": null,
+              "putToHdqRmQ": false,
+              "addonStatus": null,
+              "node": null,
+              "queueTopic": null,
+              "remarks": null
+            }
+          ]
+        },
+        {
+          "requestRefId": "8357190",
+          "autoConfirm": false,
+          "origin": "FRA",
+          "destination": "DOH",
+          "flightItineraries": [
+            {
+              "carrierCode": "QR",
+              "carrierNumber": "9001",
+              "suffix": null,
+              "scheduledDepartureDate": "13-FEB-2023",
+              "scheduledArrivalDate": "13-FEB-2023",
+              "scheduledDepartureTime": "13-Feb-2023 02:00",
+              "scheduledArrivalTime": "13-Feb-2023 07:00",
+              "segmentOfArrival": "DOH",
+              "segmentOfDeparture": "FRA",
+              "dow": "Monday",
+              "dayChange": "0",
+              "allotmentCode": "",
+              "bookingStatus": "NN",
+              "iataEqpType": "789",
+              "carrierAircraftType": "789",
+              "tailNumber": null,
+              "operationType": "PAX",
+              "flightBookingStatus": "Open",
+              "shpFltMvtSts": null,
+              "flightOperationStatus": null,
+              "weight": 1000,
+              "volume": 0.18,
+              "pcs": 1,
+              "pendingWeight": null,
+              "pendingVolume": null,
+              "pendingPcs": null,
+              "operationalCarrierCode": null,
+              "operationalCarrierNumber": null
+            }
+          ],
+          "productCommodityDetails": {
+            "productCode": "GOLD",
+            "commodityCode": "9999",
+            "dgShipment": null,
+            "specialHandlingCodes": [
+              "GLD",
+              "SPX",
+              "HEA"
+            ],
+            "densityGroup": null,
+            "natureOfGoods": "MISCELLANEOUS",
+            "serviceCode": null
+          },
+          "rateDetails": {
+            "currencyCode": "EUR",
+            "rateType": "Street Rate",
+            "chargeableWeight": 1000,
+            "chargeableWeightUnit": "K",
+            "totalAmount": 6000,
+            "discountedtotalAmount": 6000,
+            "discountPercentage": "0%",
+            "ratePerkilo": 6,
+            "contributionNotMet": false,
+            "chargesBreakDown": [
+              {
+                "chargeType": "Freight Charges",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 5000
+              },
+              {
+                "chargeType": "OCDC",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 1000
+              }
+            ]
+          },
+          "travelTime": 300,
+          "embargoNotificationRemarks": "****NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN",
+          "businessErrorSOs": [
+            {
+              "status": false,
+              "validationName": "Soft Embargo",
+              "reasonSummary": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "additionalMessage": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "reasonCode": "EMBARGO_CHECK",
+              "reasonDesc": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "boardPoint": null,
+              "putToHdqRmQ": false,
+              "addonStatus": null,
+              "node": null,
+              "queueTopic": null,
+              "remarks": null
+            }
+          ]
+        },
+        {
+          "requestRefId": "8357191",
+          "autoConfirm": false,
+          "origin": "FRA",
+          "destination": "DOH",
+          "flightItineraries": [
+            {
+              "carrierCode": "QR",
+              "carrierNumber": "9002",
+              "suffix": null,
+              "scheduledDepartureDate": "13-FEB-2023",
+              "scheduledArrivalDate": "13-FEB-2023",
+              "scheduledDepartureTime": "13-Feb-2023 03:00",
+              "scheduledArrivalTime": "13-Feb-2023 08:00",
+              "segmentOfArrival": "DOH",
+              "segmentOfDeparture": "FRA",
+              "dow": "Monday",
+              "dayChange": "0",
+              "allotmentCode": "",
+              "bookingStatus": "NN",
+              "iataEqpType": "789",
+              "carrierAircraftType": "789",
+              "tailNumber": null,
+              "operationType": "PAX",
+              "flightBookingStatus": "Open",
+              "shpFltMvtSts": null,
+              "flightOperationStatus": null,
+              "weight": 1000,
+              "volume": 0.18,
+              "pcs": 1,
+              "pendingWeight": null,
+              "pendingVolume": null,
+              "pendingPcs": null,
+              "operationalCarrierCode": null,
+              "operationalCarrierNumber": null
+            }
+          ],
+          "productCommodityDetails": {
+            "productCode": "GOLD",
+            "commodityCode": "9999",
+            "dgShipment": null,
+            "specialHandlingCodes": [
+              "GLD",
+              "SPX",
+              "HEA"
+            ],
+            "densityGroup": null,
+            "natureOfGoods": "MISCELLANEOUS",
+            "serviceCode": null
+          },
+          "rateDetails": {
+            "currencyCode": "EUR",
+            "rateType": "Street Rate",
+            "chargeableWeight": 1000,
+            "chargeableWeightUnit": "K",
+            "totalAmount": 6000,
+            "discountedtotalAmount": 6000,
+            "discountPercentage": "0%",
+            "ratePerkilo": 6,
+            "contributionNotMet": false,
+            "chargesBreakDown": [
+              {
+                "chargeType": "Freight Charges",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 5000
+              },
+              {
+                "chargeType": "OCDC",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 1000
+              }
+            ]
+          },
+          "travelTime": 300,
+          "embargoNotificationRemarks": "****NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN",
+          "businessErrorSOs": [
+            {
+              "status": false,
+              "validationName": "Soft Embargo",
+              "reasonSummary": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "additionalMessage": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "reasonCode": "EMBARGO_CHECK",
+              "reasonDesc": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "boardPoint": null,
+              "putToHdqRmQ": false,
+              "addonStatus": null,
+              "node": null,
+              "queueTopic": null,
+              "remarks": null
+            }
+          ]
+        },
+        {
+          "requestRefId": "8357192",
+          "autoConfirm": false,
+          "origin": "FRA",
+          "destination": "DOH",
+          "flightItineraries": [
+            {
+              "carrierCode": "QR",
+              "carrierNumber": "9004",
+              "suffix": null,
+              "scheduledDepartureDate": "13-FEB-2023",
+              "scheduledArrivalDate": "13-FEB-2023",
+              "scheduledDepartureTime": "13-Feb-2023 04:00",
+              "scheduledArrivalTime": "13-Feb-2023 09:00",
+              "segmentOfArrival": "DOH",
+              "segmentOfDeparture": "FRA",
+              "dow": "Monday",
+              "dayChange": "0",
+              "allotmentCode": "",
+              "bookingStatus": "NN",
+              "iataEqpType": "789",
+              "carrierAircraftType": "789",
+              "tailNumber": null,
+              "operationType": "PAX",
+              "flightBookingStatus": "Open",
+              "shpFltMvtSts": null,
+              "flightOperationStatus": null,
+              "weight": 1000,
+              "volume": 0.18,
+              "pcs": 1,
+              "pendingWeight": null,
+              "pendingVolume": null,
+              "pendingPcs": null,
+              "operationalCarrierCode": null,
+              "operationalCarrierNumber": null
+            }
+          ],
+          "productCommodityDetails": {
+            "productCode": "GOLD",
+            "commodityCode": "9999",
+            "dgShipment": null,
+            "specialHandlingCodes": [
+              "GLD",
+              "SPX",
+              "HEA"
+            ],
+            "densityGroup": null,
+            "natureOfGoods": "MISCELLANEOUS",
+            "serviceCode": null
+          },
+          "rateDetails": {
+            "currencyCode": "EUR",
+            "rateType": "Street Rate",
+            "chargeableWeight": 1000,
+            "chargeableWeightUnit": "K",
+            "totalAmount": 6000,
+            "discountedtotalAmount": 6000,
+            "discountPercentage": "0%",
+            "ratePerkilo": 6,
+            "contributionNotMet": false,
+            "chargesBreakDown": [
+              {
+                "chargeType": "Freight Charges",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 5000
+              },
+              {
+                "chargeType": "OCDC",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 1000
+              }
+            ]
+          },
+          "travelTime": 300,
+          "embargoNotificationRemarks": "****NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN",
+          "businessErrorSOs": [
+            {
+              "status": false,
+              "validationName": "Soft Embargo",
+              "reasonSummary": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "additionalMessage": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "reasonCode": "EMBARGO_CHECK",
+              "reasonDesc": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "boardPoint": null,
+              "putToHdqRmQ": false,
+              "addonStatus": null,
+              "node": null,
+              "queueTopic": null,
+              "remarks": null
+            }
+          ]
+        },
+        {
+          "requestRefId": "8357193",
+          "autoConfirm": false,
+          "origin": "FRA",
+          "destination": "DOH",
+          "flightItineraries": [
+            {
+              "carrierCode": "QR",
+              "carrierNumber": "9003",
+              "suffix": null,
+              "scheduledDepartureDate": "13-FEB-2023",
+              "scheduledArrivalDate": "13-FEB-2023",
+              "scheduledDepartureTime": "13-Feb-2023 04:00",
+              "scheduledArrivalTime": "13-Feb-2023 09:00",
+              "segmentOfArrival": "DOH",
+              "segmentOfDeparture": "FRA",
+              "dow": "Monday",
+              "dayChange": "0",
+              "allotmentCode": "",
+              "bookingStatus": "NN",
+              "iataEqpType": "789",
+              "carrierAircraftType": "789",
+              "tailNumber": null,
+              "operationType": "PAX",
+              "flightBookingStatus": "Open",
+              "shpFltMvtSts": null,
+              "flightOperationStatus": null,
+              "weight": 1000,
+              "volume": 0.18,
+              "pcs": 1,
+              "pendingWeight": null,
+              "pendingVolume": null,
+              "pendingPcs": null,
+              "operationalCarrierCode": null,
+              "operationalCarrierNumber": null
+            }
+          ],
+          "productCommodityDetails": {
+            "productCode": "GOLD",
+            "commodityCode": "9999",
+            "dgShipment": null,
+            "specialHandlingCodes": [
+              "GLD",
+              "SPX",
+              "HEA"
+            ],
+            "densityGroup": null,
+            "natureOfGoods": "MISCELLANEOUS",
+            "serviceCode": null
+          },
+          "rateDetails": {
+            "currencyCode": "EUR",
+            "rateType": "Street Rate",
+            "chargeableWeight": 1000,
+            "chargeableWeightUnit": "K",
+            "totalAmount": 6000,
+            "discountedtotalAmount": 6000,
+            "discountPercentage": "0%",
+            "ratePerkilo": 6,
+            "contributionNotMet": false,
+            "chargesBreakDown": [
+              {
+                "chargeType": "Freight Charges",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 5000
+              },
+              {
+                "chargeType": "OCDC",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 1000
+              }
+            ]
+          },
+          "travelTime": 300,
+          "embargoNotificationRemarks": "****NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN",
+          "businessErrorSOs": [
+            {
+              "status": false,
+              "validationName": "Soft Embargo",
+              "reasonSummary": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "additionalMessage": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "reasonCode": "EMBARGO_CHECK",
+              "reasonDesc": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "boardPoint": null,
+              "putToHdqRmQ": false,
+              "addonStatus": null,
+              "node": null,
+              "queueTopic": null,
+              "remarks": null
+            }
+          ]
+        },
+        {
+          "requestRefId": "8357194",
+          "autoConfirm": false,
+          "origin": "FRA",
+          "destination": "DOH",
+          "flightItineraries": [
+            {
+              "carrierCode": "QR",
+              "carrierNumber": "9005",
+              "suffix": null,
+              "scheduledDepartureDate": "13-FEB-2023",
+              "scheduledArrivalDate": "13-FEB-2023",
+              "scheduledDepartureTime": "13-Feb-2023 06:00",
+              "scheduledArrivalTime": "13-Feb-2023 11:00",
+              "segmentOfArrival": "DOH",
+              "segmentOfDeparture": "FRA",
+              "dow": "Monday",
+              "dayChange": "0",
+              "allotmentCode": "",
+              "bookingStatus": "NN",
+              "iataEqpType": "789",
+              "carrierAircraftType": "789",
+              "tailNumber": null,
+              "operationType": "PAX",
+              "flightBookingStatus": "Open",
+              "shpFltMvtSts": null,
+              "flightOperationStatus": null,
+              "weight": 1000,
+              "volume": 0.18,
+              "pcs": 1,
+              "pendingWeight": null,
+              "pendingVolume": null,
+              "pendingPcs": null,
+              "operationalCarrierCode": null,
+              "operationalCarrierNumber": null
+            }
+          ],
+          "productCommodityDetails": {
+            "productCode": "GOLD",
+            "commodityCode": "9999",
+            "dgShipment": null,
+            "specialHandlingCodes": [
+              "GLD",
+              "SPX",
+              "HEA"
+            ],
+            "densityGroup": null,
+            "natureOfGoods": "MISCELLANEOUS",
+            "serviceCode": null
+          },
+          "rateDetails": {
+            "currencyCode": "EUR",
+            "rateType": "Street Rate",
+            "chargeableWeight": 1000,
+            "chargeableWeightUnit": "K",
+            "totalAmount": 6000,
+            "discountedtotalAmount": 6000,
+            "discountPercentage": "0%",
+            "ratePerkilo": 6,
+            "contributionNotMet": false,
+            "chargesBreakDown": [
+              {
+                "chargeType": "Freight Charges",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 5000
+              },
+              {
+                "chargeType": "OCDC",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 1000
+              }
+            ]
+          },
+          "travelTime": 300,
+          "embargoNotificationRemarks": "****NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN",
+          "businessErrorSOs": [
+            {
+              "status": false,
+              "validationName": "Soft Embargo",
+              "reasonSummary": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "additionalMessage": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "reasonCode": "EMBARGO_CHECK",
+              "reasonDesc": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "boardPoint": null,
+              "putToHdqRmQ": false,
+              "addonStatus": null,
+              "node": null,
+              "queueTopic": null,
+              "remarks": null
+            }
+          ]
+        },
+        {
+          "requestRefId": "8357195",
+          "autoConfirm": false,
+          "origin": "FRA",
+          "destination": "DOH",
+          "flightItineraries": [
+            {
+              "carrierCode": "QR",
+              "carrierNumber": "9006",
+              "suffix": null,
+              "scheduledDepartureDate": "13-FEB-2023",
+              "scheduledArrivalDate": "13-FEB-2023",
+              "scheduledDepartureTime": "13-Feb-2023 07:00",
+              "scheduledArrivalTime": "13-Feb-2023 12:00",
+              "segmentOfArrival": "DOH",
+              "segmentOfDeparture": "FRA",
+              "dow": "Monday",
+              "dayChange": "0",
+              "allotmentCode": "",
+              "bookingStatus": "NN",
+              "iataEqpType": "789",
+              "carrierAircraftType": "789",
+              "tailNumber": null,
+              "operationType": "PAX",
+              "flightBookingStatus": "Open",
+              "shpFltMvtSts": null,
+              "flightOperationStatus": null,
+              "weight": 1000,
+              "volume": 0.18,
+              "pcs": 1,
+              "pendingWeight": null,
+              "pendingVolume": null,
+              "pendingPcs": null,
+              "operationalCarrierCode": null,
+              "operationalCarrierNumber": null
+            }
+          ],
+          "productCommodityDetails": {
+            "productCode": "GOLD",
+            "commodityCode": "9999",
+            "dgShipment": null,
+            "specialHandlingCodes": [
+              "GLD",
+              "SPX",
+              "HEA"
+            ],
+            "densityGroup": null,
+            "natureOfGoods": "MISCELLANEOUS",
+            "serviceCode": null
+          },
+          "rateDetails": {
+            "currencyCode": "EUR",
+            "rateType": "Street Rate",
+            "chargeableWeight": 1000,
+            "chargeableWeightUnit": "K",
+            "totalAmount": 6000,
+            "discountedtotalAmount": 6000,
+            "discountPercentage": "0%",
+            "ratePerkilo": 6,
+            "contributionNotMet": false,
+            "chargesBreakDown": [
+              {
+                "chargeType": "Freight Charges",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 5000
+              },
+              {
+                "chargeType": "OCDC",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 1000
+              }
+            ]
+          },
+          "travelTime": 300,
+          "embargoNotificationRemarks": "****NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN",
+          "businessErrorSOs": [
+            {
+              "status": false,
+              "validationName": "Soft Embargo",
+              "reasonSummary": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "additionalMessage": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "reasonCode": "EMBARGO_CHECK",
+              "reasonDesc": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "boardPoint": null,
+              "putToHdqRmQ": false,
+              "addonStatus": null,
+              "node": null,
+              "queueTopic": null,
+              "remarks": null
+            }
+          ]
+        },
+        {
+          "requestRefId": "8357188",
+          "autoConfirm": false,
+          "origin": "FRA",
+          "destination": "DOH",
+          "flightItineraries": [
+            {
+              "carrierCode": "QR",
+              "carrierNumber": "9304",
+              "suffix": "C",
+              "scheduledDepartureDate": "13-FEB-2023",
+              "scheduledArrivalDate": "14-FEB-2023",
+              "scheduledDepartureTime": "13-Feb-2023 23:59",
+              "scheduledArrivalTime": "14-Feb-2023 09:00",
+              "segmentOfArrival": "DUS",
+              "segmentOfDeparture": "FRA",
+              "dow": "Monday",
+              "dayChange": "0",
+              "allotmentCode": "",
+              "bookingStatus": "NN",
+              "iataEqpType": "RF01",
+              "carrierAircraftType": "RF01",
+              "tailNumber": null,
+              "operationType": "TRK",
+              "flightBookingStatus": "Open",
+              "shpFltMvtSts": null,
+              "flightOperationStatus": null,
+              "weight": 1000,
+              "volume": 0.18,
+              "pcs": 1,
+              "pendingWeight": null,
+              "pendingVolume": null,
+              "pendingPcs": null,
+              "operationalCarrierCode": null,
+              "operationalCarrierNumber": null
+            },
+            {
+              "carrierCode": "QR",
+              "carrierNumber": "0086",
+              "suffix": null,
+              "scheduledDepartureDate": "14-FEB-2023",
+              "scheduledArrivalDate": "14-FEB-2023",
+              "scheduledDepartureTime": "14-Feb-2023 15:05",
+              "scheduledArrivalTime": "14-Feb-2023 22:55",
+              "segmentOfArrival": "DOH",
+              "segmentOfDeparture": "DUS",
+              "dow": "Tuesday",
+              "dayChange": "0",
+              "allotmentCode": "",
+              "bookingStatus": "NN",
+              "iataEqpType": "788",
+              "carrierAircraftType": "788",
+              "tailNumber": null,
+              "operationType": "PAX",
+              "flightBookingStatus": "Open",
+              "shpFltMvtSts": null,
+              "flightOperationStatus": null,
+              "weight": 1000,
+              "volume": 0.18,
+              "pcs": 1,
+              "pendingWeight": null,
+              "pendingVolume": null,
+              "pendingPcs": null,
+              "operationalCarrierCode": null,
+              "operationalCarrierNumber": null
+            }
+          ],
+          "productCommodityDetails": {
+            "productCode": "GOLD",
+            "commodityCode": "9999",
+            "dgShipment": null,
+            "specialHandlingCodes": [
+              "GLD",
+              "SPX",
+              "HEA"
+            ],
+            "densityGroup": null,
+            "natureOfGoods": "MISCELLANEOUS",
+            "serviceCode": null
+          },
+          "rateDetails": {
+            "currencyCode": "EUR",
+            "rateType": "Street Rate",
+            "chargeableWeight": 1000,
+            "chargeableWeightUnit": "K",
+            "totalAmount": 6000,
+            "discountedtotalAmount": 6000,
+            "discountPercentage": "0%",
+            "ratePerkilo": 6,
+            "contributionNotMet": false,
+            "chargesBreakDown": [
+              {
+                "chargeType": "Freight Charges",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 5000
+              },
+              {
+                "chargeType": "OCDC",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 1000
+              }
+            ]
+          },
+          "travelTime": 1376,
+          "embargoNotificationRemarks": "****NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN",
+          "businessErrorSOs": [
+            {
+              "status": false,
+              "validationName": "Soft Embargo",
+              "reasonSummary": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "additionalMessage": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "reasonCode": "EMBARGO_CHECK",
+              "reasonDesc": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "boardPoint": null,
+              "putToHdqRmQ": false,
+              "addonStatus": null,
+              "node": null,
+              "queueTopic": null,
+              "remarks": null
+            }
+          ]
+        },
+        {
+          "requestRefId": "8357187",
+          "autoConfirm": false,
+          "origin": "FRA",
+          "destination": "DOH",
+          "flightItineraries": [
+            {
+              "carrierCode": "QR",
+              "carrierNumber": "9955",
+              "suffix": "A",
+              "scheduledDepartureDate": "13-FEB-2023",
+              "scheduledArrivalDate": "14-FEB-2023",
+              "scheduledDepartureTime": "13-Feb-2023 23:00",
+              "scheduledArrivalTime": "14-Feb-2023 08:00",
+              "segmentOfArrival": "HEL",
+              "segmentOfDeparture": "FRA",
+              "dow": "Monday",
+              "dayChange": "0",
+              "allotmentCode": "",
+              "bookingStatus": "NN",
+              "iataEqpType": "RF01",
+              "carrierAircraftType": "RF01",
+              "tailNumber": null,
+              "operationType": "TRK",
+              "flightBookingStatus": "Open",
+              "shpFltMvtSts": null,
+              "flightOperationStatus": null,
+              "weight": 1000,
+              "volume": 0.18,
+              "pcs": 1,
+              "pendingWeight": null,
+              "pendingVolume": null,
+              "pendingPcs": null,
+              "operationalCarrierCode": null,
+              "operationalCarrierNumber": null
+            },
+            {
+              "carrierCode": "AY",
+              "carrierNumber": "1981",
+              "suffix": null,
+              "scheduledDepartureDate": "14-FEB-2023",
+              "scheduledArrivalDate": "14-FEB-2023",
+              "scheduledDepartureTime": "14-Feb-2023 16:00",
+              "scheduledArrivalTime": "14-Feb-2023 23:45",
+              "segmentOfArrival": "DOH",
+              "segmentOfDeparture": "HEL",
+              "dow": "Tuesday",
+              "dayChange": "0",
+              "allotmentCode": "",
+              "bookingStatus": "NN",
+              "iataEqpType": "333",
+              "carrierAircraftType": "333H",
+              "tailNumber": null,
+              "operationType": "PAX",
+              "flightBookingStatus": "Open",
+              "shpFltMvtSts": null,
+              "flightOperationStatus": null,
+              "weight": 1000,
+              "volume": 0.18,
+              "pcs": 1,
+              "pendingWeight": null,
+              "pendingVolume": null,
+              "pendingPcs": null,
+              "operationalCarrierCode": null,
+              "operationalCarrierNumber": null
+            }
+          ],
+          "productCommodityDetails": {
+            "productCode": "GOLD",
+            "commodityCode": "9999",
+            "dgShipment": null,
+            "specialHandlingCodes": [
+              "GLD",
+              "SPX",
+              "HEA"
+            ],
+            "densityGroup": null,
+            "natureOfGoods": "MISCELLANEOUS",
+            "serviceCode": null
+          },
+          "rateDetails": {
+            "currencyCode": "EUR",
+            "rateType": "Street Rate",
+            "chargeableWeight": 1000,
+            "chargeableWeightUnit": "K",
+            "totalAmount": 6000,
+            "discountedtotalAmount": 6000,
+            "discountPercentage": "0%",
+            "ratePerkilo": 6,
+            "contributionNotMet": false,
+            "chargesBreakDown": [
+              {
+                "chargeType": "Freight Charges",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 5000
+              },
+              {
+                "chargeType": "OCDC",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 1000
+              }
+            ]
+          },
+          "travelTime": 1485,
+          "embargoNotificationRemarks": "****NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN",
+          "businessErrorSOs": [
+            {
+              "status": false,
+              "validationName": "Soft Embargo",
+              "reasonSummary": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "additionalMessage": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "reasonCode": "EMBARGO_CHECK",
+              "reasonDesc": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "boardPoint": null,
+              "putToHdqRmQ": false,
+              "addonStatus": null,
+              "node": null,
+              "queueTopic": null,
+              "remarks": null
+            }
+          ]
+        }
+      ],
+      "businessErrorSOs": []
+    },
+    {
+      "departureDate": "14-FEB-2023",
+      "availabilityResponseSOs": [
+        {
+          "requestRefId": "8357169",
+          "autoConfirm": false,
+          "origin": "FRA",
+          "destination": "DOH",
+          "flightItineraries": [
+            {
+              "carrierCode": "QR",
+              "carrierNumber": "9000",
+              "suffix": null,
+              "scheduledDepartureDate": "14-FEB-2023",
+              "scheduledArrivalDate": "14-FEB-2023",
+              "scheduledDepartureTime": "14-Feb-2023 01:00",
+              "scheduledArrivalTime": "14-Feb-2023 06:00",
+              "segmentOfArrival": "DOH",
+              "segmentOfDeparture": "FRA",
+              "dow": "Tuesday",
+              "dayChange": "0",
+              "allotmentCode": "",
+              "bookingStatus": "NN",
+              "iataEqpType": "789",
+              "carrierAircraftType": "789",
+              "tailNumber": null,
+              "operationType": "PAX",
+              "flightBookingStatus": "Open",
+              "shpFltMvtSts": null,
+              "flightOperationStatus": null,
+              "weight": 1000,
+              "volume": 0.18,
+              "pcs": 1,
+              "pendingWeight": null,
+              "pendingVolume": null,
+              "pendingPcs": null,
+              "operationalCarrierCode": null,
+              "operationalCarrierNumber": null
+            }
+          ],
+          "productCommodityDetails": {
+            "productCode": "GOLD",
+            "commodityCode": "9999",
+            "dgShipment": null,
+            "specialHandlingCodes": [
+              "GLD",
+              "SPX",
+              "HEA"
+            ],
+            "densityGroup": null,
+            "natureOfGoods": "MISCELLANEOUS",
+            "serviceCode": null
+          },
+          "rateDetails": {
+            "currencyCode": "EUR",
+            "rateType": "Street Rate",
+            "chargeableWeight": 1000,
+            "chargeableWeightUnit": "K",
+            "totalAmount": 6000,
+            "discountedtotalAmount": 6000,
+            "discountPercentage": "0%",
+            "ratePerkilo": 6,
+            "contributionNotMet": false,
+            "chargesBreakDown": [
+              {
+                "chargeType": "Freight Charges",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 5000
+              },
+              {
+                "chargeType": "OCDC",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 1000
+              }
+            ]
+          },
+          "travelTime": 300,
+          "embargoNotificationRemarks": "****NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN",
+          "businessErrorSOs": [
+            {
+              "status": false,
+              "validationName": "Soft Embargo",
+              "reasonSummary": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "additionalMessage": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "reasonCode": "EMBARGO_CHECK",
+              "reasonDesc": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "boardPoint": null,
+              "putToHdqRmQ": false,
+              "addonStatus": null,
+              "node": null,
+              "queueTopic": null,
+              "remarks": null
+            }
+          ]
+        },
+        {
+          "requestRefId": "8357170",
+          "autoConfirm": false,
+          "origin": "FRA",
+          "destination": "DOH",
+          "flightItineraries": [
+            {
+              "carrierCode": "QR",
+              "carrierNumber": "9001",
+              "suffix": null,
+              "scheduledDepartureDate": "14-FEB-2023",
+              "scheduledArrivalDate": "14-FEB-2023",
+              "scheduledDepartureTime": "14-Feb-2023 02:00",
+              "scheduledArrivalTime": "14-Feb-2023 07:00",
+              "segmentOfArrival": "DOH",
+              "segmentOfDeparture": "FRA",
+              "dow": "Tuesday",
+              "dayChange": "0",
+              "allotmentCode": "",
+              "bookingStatus": "NN",
+              "iataEqpType": "789",
+              "carrierAircraftType": "789",
+              "tailNumber": null,
+              "operationType": "PAX",
+              "flightBookingStatus": "Open",
+              "shpFltMvtSts": null,
+              "flightOperationStatus": null,
+              "weight": 1000,
+              "volume": 0.18,
+              "pcs": 1,
+              "pendingWeight": null,
+              "pendingVolume": null,
+              "pendingPcs": null,
+              "operationalCarrierCode": null,
+              "operationalCarrierNumber": null
+            }
+          ],
+          "productCommodityDetails": {
+            "productCode": "GOLD",
+            "commodityCode": "9999",
+            "dgShipment": null,
+            "specialHandlingCodes": [
+              "GLD",
+              "SPX",
+              "HEA"
+            ],
+            "densityGroup": null,
+            "natureOfGoods": "MISCELLANEOUS",
+            "serviceCode": null
+          },
+          "rateDetails": {
+            "currencyCode": "EUR",
+            "rateType": "Street Rate",
+            "chargeableWeight": 1000,
+            "chargeableWeightUnit": "K",
+            "totalAmount": 6000,
+            "discountedtotalAmount": 6000,
+            "discountPercentage": "0%",
+            "ratePerkilo": 6,
+            "contributionNotMet": false,
+            "chargesBreakDown": [
+              {
+                "chargeType": "Freight Charges",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 5000
+              },
+              {
+                "chargeType": "OCDC",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 1000
+              }
+            ]
+          },
+          "travelTime": 300,
+          "embargoNotificationRemarks": "****NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN",
+          "businessErrorSOs": [
+            {
+              "status": false,
+              "validationName": "Soft Embargo",
+              "reasonSummary": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "additionalMessage": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "reasonCode": "EMBARGO_CHECK",
+              "reasonDesc": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "boardPoint": null,
+              "putToHdqRmQ": false,
+              "addonStatus": null,
+              "node": null,
+              "queueTopic": null,
+              "remarks": null
+            }
+          ]
+        },
+        {
+          "requestRefId": "8357171",
+          "autoConfirm": false,
+          "origin": "FRA",
+          "destination": "DOH",
+          "flightItineraries": [
+            {
+              "carrierCode": "QR",
+              "carrierNumber": "9002",
+              "suffix": null,
+              "scheduledDepartureDate": "14-FEB-2023",
+              "scheduledArrivalDate": "14-FEB-2023",
+              "scheduledDepartureTime": "14-Feb-2023 03:00",
+              "scheduledArrivalTime": "14-Feb-2023 08:00",
+              "segmentOfArrival": "DOH",
+              "segmentOfDeparture": "FRA",
+              "dow": "Tuesday",
+              "dayChange": "0",
+              "allotmentCode": "",
+              "bookingStatus": "NN",
+              "iataEqpType": "789",
+              "carrierAircraftType": "789",
+              "tailNumber": null,
+              "operationType": "PAX",
+              "flightBookingStatus": "Open",
+              "shpFltMvtSts": null,
+              "flightOperationStatus": null,
+              "weight": 1000,
+              "volume": 0.18,
+              "pcs": 1,
+              "pendingWeight": null,
+              "pendingVolume": null,
+              "pendingPcs": null,
+              "operationalCarrierCode": null,
+              "operationalCarrierNumber": null
+            }
+          ],
+          "productCommodityDetails": {
+            "productCode": "GOLD",
+            "commodityCode": "9999",
+            "dgShipment": null,
+            "specialHandlingCodes": [
+              "GLD",
+              "SPX",
+              "HEA"
+            ],
+            "densityGroup": null,
+            "natureOfGoods": "MISCELLANEOUS",
+            "serviceCode": null
+          },
+          "rateDetails": {
+            "currencyCode": "EUR",
+            "rateType": "Street Rate",
+            "chargeableWeight": 1000,
+            "chargeableWeightUnit": "K",
+            "totalAmount": 6000,
+            "discountedtotalAmount": 6000,
+            "discountPercentage": "0%",
+            "ratePerkilo": 6,
+            "contributionNotMet": false,
+            "chargesBreakDown": [
+              {
+                "chargeType": "Freight Charges",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 5000
+              },
+              {
+                "chargeType": "OCDC",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 1000
+              }
+            ]
+          },
+          "travelTime": 300,
+          "embargoNotificationRemarks": "****NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN",
+          "businessErrorSOs": [
+            {
+              "status": false,
+              "validationName": "Soft Embargo",
+              "reasonSummary": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "additionalMessage": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "reasonCode": "EMBARGO_CHECK",
+              "reasonDesc": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "boardPoint": null,
+              "putToHdqRmQ": false,
+              "addonStatus": null,
+              "node": null,
+              "queueTopic": null,
+              "remarks": null
+            }
+          ]
+        },
+        {
+          "requestRefId": "8357172",
+          "autoConfirm": false,
+          "origin": "FRA",
+          "destination": "DOH",
+          "flightItineraries": [
+            {
+              "carrierCode": "QR",
+              "carrierNumber": "9003",
+              "suffix": null,
+              "scheduledDepartureDate": "14-FEB-2023",
+              "scheduledArrivalDate": "14-FEB-2023",
+              "scheduledDepartureTime": "14-Feb-2023 04:00",
+              "scheduledArrivalTime": "14-Feb-2023 09:00",
+              "segmentOfArrival": "DOH",
+              "segmentOfDeparture": "FRA",
+              "dow": "Tuesday",
+              "dayChange": "0",
+              "allotmentCode": "",
+              "bookingStatus": "NN",
+              "iataEqpType": "789",
+              "carrierAircraftType": "789",
+              "tailNumber": null,
+              "operationType": "PAX",
+              "flightBookingStatus": "Open",
+              "shpFltMvtSts": null,
+              "flightOperationStatus": null,
+              "weight": 1000,
+              "volume": 0.18,
+              "pcs": 1,
+              "pendingWeight": null,
+              "pendingVolume": null,
+              "pendingPcs": null,
+              "operationalCarrierCode": null,
+              "operationalCarrierNumber": null
+            }
+          ],
+          "productCommodityDetails": {
+            "productCode": "GOLD",
+            "commodityCode": "9999",
+            "dgShipment": null,
+            "specialHandlingCodes": [
+              "GLD",
+              "SPX",
+              "HEA"
+            ],
+            "densityGroup": null,
+            "natureOfGoods": "MISCELLANEOUS",
+            "serviceCode": null
+          },
+          "rateDetails": {
+            "currencyCode": "EUR",
+            "rateType": "Street Rate",
+            "chargeableWeight": 1000,
+            "chargeableWeightUnit": "K",
+            "totalAmount": 6000,
+            "discountedtotalAmount": 6000,
+            "discountPercentage": "0%",
+            "ratePerkilo": 6,
+            "contributionNotMet": false,
+            "chargesBreakDown": [
+              {
+                "chargeType": "Freight Charges",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 5000
+              },
+              {
+                "chargeType": "OCDC",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 1000
+              }
+            ]
+          },
+          "travelTime": 300,
+          "embargoNotificationRemarks": "****NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN",
+          "businessErrorSOs": [
+            {
+              "status": false,
+              "validationName": "Soft Embargo",
+              "reasonSummary": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "additionalMessage": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "reasonCode": "EMBARGO_CHECK",
+              "reasonDesc": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "boardPoint": null,
+              "putToHdqRmQ": false,
+              "addonStatus": null,
+              "node": null,
+              "queueTopic": null,
+              "remarks": null
+            }
+          ]
+        },
+        {
+          "requestRefId": "8357173",
+          "autoConfirm": false,
+          "origin": "FRA",
+          "destination": "DOH",
+          "flightItineraries": [
+            {
+              "carrierCode": "QR",
+              "carrierNumber": "9004",
+              "suffix": null,
+              "scheduledDepartureDate": "14-FEB-2023",
+              "scheduledArrivalDate": "14-FEB-2023",
+              "scheduledDepartureTime": "14-Feb-2023 04:00",
+              "scheduledArrivalTime": "14-Feb-2023 09:00",
+              "segmentOfArrival": "DOH",
+              "segmentOfDeparture": "FRA",
+              "dow": "Tuesday",
+              "dayChange": "0",
+              "allotmentCode": "",
+              "bookingStatus": "NN",
+              "iataEqpType": "789",
+              "carrierAircraftType": "789",
+              "tailNumber": null,
+              "operationType": "PAX",
+              "flightBookingStatus": "Open",
+              "shpFltMvtSts": null,
+              "flightOperationStatus": null,
+              "weight": 1000,
+              "volume": 0.18,
+              "pcs": 1,
+              "pendingWeight": null,
+              "pendingVolume": null,
+              "pendingPcs": null,
+              "operationalCarrierCode": null,
+              "operationalCarrierNumber": null
+            }
+          ],
+          "productCommodityDetails": {
+            "productCode": "GOLD",
+            "commodityCode": "9999",
+            "dgShipment": null,
+            "specialHandlingCodes": [
+              "GLD",
+              "SPX",
+              "HEA"
+            ],
+            "densityGroup": null,
+            "natureOfGoods": "MISCELLANEOUS",
+            "serviceCode": null
+          },
+          "rateDetails": {
+            "currencyCode": "EUR",
+            "rateType": "Street Rate",
+            "chargeableWeight": 1000,
+            "chargeableWeightUnit": "K",
+            "totalAmount": 6000,
+            "discountedtotalAmount": 6000,
+            "discountPercentage": "0%",
+            "ratePerkilo": 6,
+            "contributionNotMet": false,
+            "chargesBreakDown": [
+              {
+                "chargeType": "Freight Charges",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 5000
+              },
+              {
+                "chargeType": "OCDC",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 1000
+              }
+            ]
+          },
+          "travelTime": 300,
+          "embargoNotificationRemarks": "****NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN",
+          "businessErrorSOs": [
+            {
+              "status": false,
+              "validationName": "Soft Embargo",
+              "reasonSummary": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "additionalMessage": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "reasonCode": "EMBARGO_CHECK",
+              "reasonDesc": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "boardPoint": null,
+              "putToHdqRmQ": false,
+              "addonStatus": null,
+              "node": null,
+              "queueTopic": null,
+              "remarks": null
+            }
+          ]
+        },
+        {
+          "requestRefId": "8357174",
+          "autoConfirm": false,
+          "origin": "FRA",
+          "destination": "DOH",
+          "flightItineraries": [
+            {
+              "carrierCode": "QR",
+              "carrierNumber": "9005",
+              "suffix": null,
+              "scheduledDepartureDate": "14-FEB-2023",
+              "scheduledArrivalDate": "14-FEB-2023",
+              "scheduledDepartureTime": "14-Feb-2023 06:00",
+              "scheduledArrivalTime": "14-Feb-2023 11:00",
+              "segmentOfArrival": "DOH",
+              "segmentOfDeparture": "FRA",
+              "dow": "Tuesday",
+              "dayChange": "0",
+              "allotmentCode": "",
+              "bookingStatus": "NN",
+              "iataEqpType": "789",
+              "carrierAircraftType": "789",
+              "tailNumber": null,
+              "operationType": "PAX",
+              "flightBookingStatus": "Open",
+              "shpFltMvtSts": null,
+              "flightOperationStatus": null,
+              "weight": 1000,
+              "volume": 0.18,
+              "pcs": 1,
+              "pendingWeight": null,
+              "pendingVolume": null,
+              "pendingPcs": null,
+              "operationalCarrierCode": null,
+              "operationalCarrierNumber": null
+            }
+          ],
+          "productCommodityDetails": {
+            "productCode": "GOLD",
+            "commodityCode": "9999",
+            "dgShipment": null,
+            "specialHandlingCodes": [
+              "GLD",
+              "SPX",
+              "HEA"
+            ],
+            "densityGroup": null,
+            "natureOfGoods": "MISCELLANEOUS",
+            "serviceCode": null
+          },
+          "rateDetails": {
+            "currencyCode": "EUR",
+            "rateType": "Street Rate",
+            "chargeableWeight": 1000,
+            "chargeableWeightUnit": "K",
+            "totalAmount": 6000,
+            "discountedtotalAmount": 6000,
+            "discountPercentage": "0%",
+            "ratePerkilo": 6,
+            "contributionNotMet": false,
+            "chargesBreakDown": [
+              {
+                "chargeType": "Freight Charges",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 5000
+              },
+              {
+                "chargeType": "OCDC",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 1000
+              }
+            ]
+          },
+          "travelTime": 300,
+          "embargoNotificationRemarks": "****NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN",
+          "businessErrorSOs": [
+            {
+              "status": false,
+              "validationName": "Soft Embargo",
+              "reasonSummary": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "additionalMessage": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "reasonCode": "EMBARGO_CHECK",
+              "reasonDesc": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "boardPoint": null,
+              "putToHdqRmQ": false,
+              "addonStatus": null,
+              "node": null,
+              "queueTopic": null,
+              "remarks": null
+            }
+          ]
+        },
+        {
+          "requestRefId": "8357175",
+          "autoConfirm": false,
+          "origin": "FRA",
+          "destination": "DOH",
+          "flightItineraries": [
+            {
+              "carrierCode": "QR",
+              "carrierNumber": "9006",
+              "suffix": null,
+              "scheduledDepartureDate": "14-FEB-2023",
+              "scheduledArrivalDate": "14-FEB-2023",
+              "scheduledDepartureTime": "14-Feb-2023 07:00",
+              "scheduledArrivalTime": "14-Feb-2023 12:00",
+              "segmentOfArrival": "DOH",
+              "segmentOfDeparture": "FRA",
+              "dow": "Tuesday",
+              "dayChange": "0",
+              "allotmentCode": "",
+              "bookingStatus": "NN",
+              "iataEqpType": "789",
+              "carrierAircraftType": "789",
+              "tailNumber": null,
+              "operationType": "PAX",
+              "flightBookingStatus": "Open",
+              "shpFltMvtSts": null,
+              "flightOperationStatus": null,
+              "weight": 1000,
+              "volume": 0.18,
+              "pcs": 1,
+              "pendingWeight": null,
+              "pendingVolume": null,
+              "pendingPcs": null,
+              "operationalCarrierCode": null,
+              "operationalCarrierNumber": null
+            }
+          ],
+          "productCommodityDetails": {
+            "productCode": "GOLD",
+            "commodityCode": "9999",
+            "dgShipment": null,
+            "specialHandlingCodes": [
+              "GLD",
+              "SPX",
+              "HEA"
+            ],
+            "densityGroup": null,
+            "natureOfGoods": "MISCELLANEOUS",
+            "serviceCode": null
+          },
+          "rateDetails": {
+            "currencyCode": "EUR",
+            "rateType": "Street Rate",
+            "chargeableWeight": 1000,
+            "chargeableWeightUnit": "K",
+            "totalAmount": 6000,
+            "discountedtotalAmount": 6000,
+            "discountPercentage": "0%",
+            "ratePerkilo": 6,
+            "contributionNotMet": false,
+            "chargesBreakDown": [
+              {
+                "chargeType": "Freight Charges",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 5000
+              },
+              {
+                "chargeType": "OCDC",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 1000
+              }
+            ]
+          },
+          "travelTime": 300,
+          "embargoNotificationRemarks": "****NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN",
+          "businessErrorSOs": [
+            {
+              "status": false,
+              "validationName": "Soft Embargo",
+              "reasonSummary": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "additionalMessage": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "reasonCode": "EMBARGO_CHECK",
+              "reasonDesc": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "boardPoint": null,
+              "putToHdqRmQ": false,
+              "addonStatus": null,
+              "node": null,
+              "queueTopic": null,
+              "remarks": null
+            }
+          ]
+        },
+        {
+          "requestRefId": "8357168",
+          "autoConfirm": false,
+          "origin": "FRA",
+          "destination": "DOH",
+          "flightItineraries": [
+            {
+              "carrierCode": "QR",
+              "carrierNumber": "9304",
+              "suffix": "D",
+              "scheduledDepartureDate": "14-FEB-2023",
+              "scheduledArrivalDate": "15-FEB-2023",
+              "scheduledDepartureTime": "14-Feb-2023 23:59",
+              "scheduledArrivalTime": "15-Feb-2023 09:00",
+              "segmentOfArrival": "DUS",
+              "segmentOfDeparture": "FRA",
+              "dow": "Tuesday",
+              "dayChange": "0",
+              "allotmentCode": "",
+              "bookingStatus": "NN",
+              "iataEqpType": "RF01",
+              "carrierAircraftType": "RF01",
+              "tailNumber": null,
+              "operationType": "TRK",
+              "flightBookingStatus": "Open",
+              "shpFltMvtSts": null,
+              "flightOperationStatus": null,
+              "weight": 1000,
+              "volume": 0.18,
+              "pcs": 1,
+              "pendingWeight": null,
+              "pendingVolume": null,
+              "pendingPcs": null,
+              "operationalCarrierCode": null,
+              "operationalCarrierNumber": null
+            },
+            {
+              "carrierCode": "QR",
+              "carrierNumber": "0086",
+              "suffix": null,
+              "scheduledDepartureDate": "15-FEB-2023",
+              "scheduledArrivalDate": "15-FEB-2023",
+              "scheduledDepartureTime": "15-Feb-2023 15:05",
+              "scheduledArrivalTime": "15-Feb-2023 22:55",
+              "segmentOfArrival": "DOH",
+              "segmentOfDeparture": "DUS",
+              "dow": "Wednesday",
+              "dayChange": "0",
+              "allotmentCode": "",
+              "bookingStatus": "NN",
+              "iataEqpType": "788",
+              "carrierAircraftType": "788",
+              "tailNumber": null,
+              "operationType": "PAX",
+              "flightBookingStatus": "Open",
+              "shpFltMvtSts": null,
+              "flightOperationStatus": null,
+              "weight": 1000,
+              "volume": 0.18,
+              "pcs": 1,
+              "pendingWeight": null,
+              "pendingVolume": null,
+              "pendingPcs": null,
+              "operationalCarrierCode": null,
+              "operationalCarrierNumber": null
+            }
+          ],
+          "productCommodityDetails": {
+            "productCode": "GOLD",
+            "commodityCode": "9999",
+            "dgShipment": null,
+            "specialHandlingCodes": [
+              "GLD",
+              "SPX",
+              "HEA"
+            ],
+            "densityGroup": null,
+            "natureOfGoods": "MISCELLANEOUS",
+            "serviceCode": null
+          },
+          "rateDetails": {
+            "currencyCode": "EUR",
+            "rateType": "Street Rate",
+            "chargeableWeight": 1000,
+            "chargeableWeightUnit": "K",
+            "totalAmount": 6000,
+            "discountedtotalAmount": 6000,
+            "discountPercentage": "0%",
+            "ratePerkilo": 6,
+            "contributionNotMet": false,
+            "chargesBreakDown": [
+              {
+                "chargeType": "Freight Charges",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 5000
+              },
+              {
+                "chargeType": "OCDC",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 1000
+              }
+            ]
+          },
+          "travelTime": 1376,
+          "embargoNotificationRemarks": "****NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN",
+          "businessErrorSOs": [
+            {
+              "status": false,
+              "validationName": "Soft Embargo",
+              "reasonSummary": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "additionalMessage": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "reasonCode": "EMBARGO_CHECK",
+              "reasonDesc": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "boardPoint": null,
+              "putToHdqRmQ": false,
+              "addonStatus": null,
+              "node": null,
+              "queueTopic": null,
+              "remarks": null
+            }
+          ]
+        },
+        {
+          "requestRefId": "8357167",
+          "autoConfirm": false,
+          "origin": "FRA",
+          "destination": "DOH",
+          "flightItineraries": [
+            {
+              "carrierCode": "QR",
+              "carrierNumber": "9955",
+              "suffix": "A",
+              "scheduledDepartureDate": "14-FEB-2023",
+              "scheduledArrivalDate": "15-FEB-2023",
+              "scheduledDepartureTime": "14-Feb-2023 23:00",
+              "scheduledArrivalTime": "15-Feb-2023 08:00",
+              "segmentOfArrival": "HEL",
+              "segmentOfDeparture": "FRA",
+              "dow": "Tuesday",
+              "dayChange": "0",
+              "allotmentCode": "",
+              "bookingStatus": "NN",
+              "iataEqpType": "RF01",
+              "carrierAircraftType": "RF01",
+              "tailNumber": null,
+              "operationType": "TRK",
+              "flightBookingStatus": "Open",
+              "shpFltMvtSts": null,
+              "flightOperationStatus": null,
+              "weight": 1000,
+              "volume": 0.18,
+              "pcs": 1,
+              "pendingWeight": null,
+              "pendingVolume": null,
+              "pendingPcs": null,
+              "operationalCarrierCode": null,
+              "operationalCarrierNumber": null
+            },
+            {
+              "carrierCode": "AY",
+              "carrierNumber": "1981",
+              "suffix": null,
+              "scheduledDepartureDate": "15-FEB-2023",
+              "scheduledArrivalDate": "15-FEB-2023",
+              "scheduledDepartureTime": "15-Feb-2023 16:00",
+              "scheduledArrivalTime": "15-Feb-2023 23:45",
+              "segmentOfArrival": "DOH",
+              "segmentOfDeparture": "HEL",
+              "dow": "Wednesday",
+              "dayChange": "0",
+              "allotmentCode": "",
+              "bookingStatus": "NN",
+              "iataEqpType": "333",
+              "carrierAircraftType": "333H",
+              "tailNumber": null,
+              "operationType": "PAX",
+              "flightBookingStatus": "Open",
+              "shpFltMvtSts": null,
+              "flightOperationStatus": null,
+              "weight": 1000,
+              "volume": 0.18,
+              "pcs": 1,
+              "pendingWeight": null,
+              "pendingVolume": null,
+              "pendingPcs": null,
+              "operationalCarrierCode": null,
+              "operationalCarrierNumber": null
+            }
+          ],
+          "productCommodityDetails": {
+            "productCode": "GOLD",
+            "commodityCode": "9999",
+            "dgShipment": null,
+            "specialHandlingCodes": [
+              "GLD",
+              "SPX",
+              "HEA"
+            ],
+            "densityGroup": null,
+            "natureOfGoods": "MISCELLANEOUS",
+            "serviceCode": null
+          },
+          "rateDetails": {
+            "currencyCode": "EUR",
+            "rateType": "Street Rate",
+            "chargeableWeight": 1000,
+            "chargeableWeightUnit": "K",
+            "totalAmount": 6000,
+            "discountedtotalAmount": 6000,
+            "discountPercentage": "0%",
+            "ratePerkilo": 6,
+            "contributionNotMet": false,
+            "chargesBreakDown": [
+              {
+                "chargeType": "Freight Charges",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 5000
+              },
+              {
+                "chargeType": "OCDC",
+                "chargeCode": null,
+                "chargeDescription": null,
+                "chargeAmount": 1000
+              }
+            ]
+          },
+          "travelTime": 1485,
+          "embargoNotificationRemarks": "****NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN",
+          "businessErrorSOs": [
+            {
+              "status": false,
+              "validationName": "Soft Embargo",
+              "reasonSummary": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "additionalMessage": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "reasonCode": "EMBARGO_CHECK",
+              "reasonDesc": "NOPARTSHIPMENTTODXBDWC-NO PART SHIPMENTS TO BE FORWARDED TO DXB UFN\n",
+              "boardPoint": null,
+              "putToHdqRmQ": false,
+              "addonStatus": null,
+              "node": null,
+              "queueTopic": null,
+              "remarks": null
+            }
+          ]
+        }
+      ],
+      "businessErrorSOs": []
+    }
+  ]
+}

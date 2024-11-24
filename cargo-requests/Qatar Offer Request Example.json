@@ -1,0 +1,13 @@
+{
+  "originType": "Airport",
+  "origin": "FRA",
+  "destinationType": "Airport",
+  "destination": "DOH",
+  "customerDetails": {"customerName": "QATAR CARGO DE", "agentIataCode": "2347279", "agentCassCode": "3271", "accountNumber": ""},
+  "routingPreference": {"directFlight": false, "excludeTrucking": false, "scheduledDepartureDate": "10-Feb-2023", "scheduledArrivalDate": "14-Feb-2023", "fetchAvailForNextXDays": 4},
+  "ratePreference": {"currencyCode": "EUR"},
+  "productDetails": {"productCode": "GOLD", "serviceCode": "J", "commodityCode": "9999", "natureOfGoods": "GENERAL", "dgShipment": false, "caoIndicator": false, "specialHandlingCodes": ["GLD", "SPX", "HEA"]},
+  "shipmentQuantityDetails": {"totalPieces": 1, "totalWeight": 1000.0, "weightUnit": "Kg", "totalVolume": 0.18, "volumeUnit": "MC", "chargeableWeight": 1000.0, "chargeableWeightUnit": "Kg"},
+  "shipmentDimensions": [{"numberOfPieces": 1, "length": 50, "width": 60, "height": 60, "dimensionsUnit": "C", "weightPerPiece": 1000.0, "weightUnit": "Kg", "stackable": true, "turnable": false}],
+  "source": "CON"
+}

@@ -1,0 +1,61 @@
+{
+  "origin": "MIA",
+  "destination": "SCL",
+  "fromDate": "2023-02-10",
+  "toDate": "2023-02-13",
+  "shipmentListSO": {
+    "requestedTenderDate": "2023-02-10",
+    "requestedTenderTime": "00:00",
+    "currencyCode": "USD"
+  },
+  "agentSO": {
+    "iataCode": "0117007",
+    "cassCode": "0156",
+    "agentKnownStatus": "Y"
+  },
+  "weightVolumeSO": {
+    "pieces": 4,
+    "weight": 180,
+    "weightUnit": "K",
+    "volume": 0.61,
+    "volumeUnit": "MC",
+    "chargableWeight": 180
+  },
+  "productCommoditySO": {
+    "commodityCode": "0001",
+    "commodityDesc": "GENERAL CARGO",
+    "productCode": "SBAP",
+    "productCodeDesc": "GENERAL CARGO",
+    "shc1": "ONE",
+    "shc2": "STD",
+    "shc3": "GCR"
+  },
+  "shipmentDimensionsSO": [
+    {
+      "noOfPieces": 3,
+      "length": 76,
+      "width": 50,
+      "height": 50,
+      "dimensionUnit": "CM",
+      "totalWeight": 100,
+      "weightUnit": "K",
+      "totalVol": 0.59,
+      "volumeUnit": "MC",
+      "tiltableIndicator": "NO",
+      "stackableIndicator": "YES"
+    },
+    {
+      "noOfPieces": 1,
+      "length": 25,
+      "width": 25,
+      "height": 25,
+      "dimensionUnit": "CM",
+      "totalWeight": 80,
+      "weightUnit": "K",
+      "totalVol": 0.02,
+      "volumeUnit": "MC",
+      "tiltableIndicator": "NO",
+      "stackableIndicator": "YES"
+    }
+  ]
+}

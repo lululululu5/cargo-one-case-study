@@ -1,0 +1,1111 @@
+{
+  "errorResponseSO": null,
+  "availabilityResponseSO": {
+    "availabilityInfoList": [
+      {
+        "ocdcCharges": null,
+        "segmentAvailabilityInfoList": [
+          {
+            "standardDeparturedTime": "16:39",
+            "standardTimeOfArrival": "20:39",
+            "fltInfoSO": {
+              "carrierCode": "LA",
+              "carrierNumber": "8787",
+              "dateOfDeparture": "10-FEB-2023",
+              "segmentOfArrival": "SCL",
+              "segmentOfDeparture": "MIA",
+              "suffix": null,
+              "dayChange": null,
+              "eqpmt": "320",
+              "std": "16:39",
+              "sta": "20:39",
+              "operationType": "PAX",
+              "flightOwner": "LA",
+              "dateOfArrival": "10-FEB-2023",
+              "operationalCarrierCode": null
+            },
+            "dateOfArrivalWithTime": "10-FEB-2023",
+            "dateOfDepartureWithTime": "10-FEB-2023",
+            "volume": "0.61",
+            "weight": "180.0"
+          }
+        ],
+        "enRouteAirports": [],
+        "prdRateInfo": {
+          "productId": 46,
+          "productCode": "SBAP",
+          "productName": "STD BASIC PAX",
+          "commercialName": "STD BASIC PAX",
+          "serviceType": "STD",
+          "totalFreightCharge": 927,
+          "userCurrency": "USD",
+          "securitySurcharge": null,
+          "fuelSurCharge": null,
+          "netRevenue": 927,
+          "totalRevenue": 927,
+          "rateType": "Street Rate",
+          "bidRate": null,
+          "profitability": "Pass"
+        }
+      },
+      {
+        "ocdcCharges": null,
+        "segmentAvailabilityInfoList": [
+          {
+            "standardDeparturedTime": "16:37",
+            "standardTimeOfArrival": "21:37",
+            "fltInfoSO": {
+              "carrierCode": "LA",
+              "carrierNumber": "1321",
+              "dateOfDeparture": "10-FEB-2023",
+              "segmentOfArrival": "SCL",
+              "segmentOfDeparture": "MIA",
+              "suffix": null,
+              "dayChange": null,
+              "eqpmt": "789",
+              "std": "16:37",
+              "sta": "21:37",
+              "operationType": "PAX",
+              "flightOwner": "PZ",
+              "dateOfArrival": "10-FEB-2023",
+              "operationalCarrierCode": null
+            },
+            "dateOfArrivalWithTime": "10-FEB-2023",
+            "dateOfDepartureWithTime": "10-FEB-2023",
+            "volume": "0.61",
+            "weight": "180.0"
+          }
+        ],
+        "enRouteAirports": [],
+        "prdRateInfo": {
+          "productId": 46,
+          "productCode": "SBAP",
+          "productName": "STD BASIC PAX",
+          "commercialName": "STD BASIC PAX",
+          "serviceType": "STD",
+          "totalFreightCharge": 927,
+          "userCurrency": "USD",
+          "securitySurcharge": null,
+          "fuelSurCharge": null,
+          "netRevenue": 927,
+          "totalRevenue": 927,
+          "rateType": "Street Rate",
+          "bidRate": null,
+          "profitability": "Pass"
+        }
+      },
+      {
+        "ocdcCharges": null,
+        "segmentAvailabilityInfoList": [
+          {
+            "standardDeparturedTime": "10:10",
+            "standardTimeOfArrival": "22:00",
+            "fltInfoSO": {
+              "carrierCode": "LA",
+              "carrierNumber": "2333",
+              "dateOfDeparture": "10-FEB-2023",
+              "segmentOfArrival": "SCL",
+              "segmentOfDeparture": "MIA",
+              "suffix": null,
+              "dayChange": null,
+              "eqpmt": "536",
+              "std": "10:10",
+              "sta": "22:00",
+              "operationType": "PAX",
+              "flightOwner": "LA",
+              "dateOfArrival": "10-FEB-2023",
+              "operationalCarrierCode": null
+            },
+            "dateOfArrivalWithTime": "10-FEB-2023",
+            "dateOfDepartureWithTime": "10-FEB-2023",
+            "volume": "0.61",
+            "weight": "180.0"
+          }
+        ],
+        "enRouteAirports": [],
+        "prdRateInfo": {
+          "productId": 46,
+          "productCode": "SBAP",
+          "productName": "STD BASIC PAX",
+          "commercialName": "STD BASIC PAX",
+          "serviceType": "STD",
+          "totalFreightCharge": 927,
+          "userCurrency": "USD",
+          "securitySurcharge": null,
+          "fuelSurCharge": null,
+          "netRevenue": 927,
+          "totalRevenue": 927,
+          "rateType": "Street Rate",
+          "bidRate": null,
+          "profitability": "Pass"
+        }
+      },
+      {
+        "ocdcCharges": null,
+        "segmentAvailabilityInfoList": [
+          {
+            "standardDeparturedTime": "11:20",
+            "standardTimeOfArrival": "18:30",
+            "fltInfoSO": {
+              "carrierCode": "LA",
+              "carrierNumber": "1372",
+              "dateOfDeparture": "12-FEB-2023",
+              "segmentOfArrival": "SCL",
+              "segmentOfDeparture": "MIA",
+              "suffix": null,
+              "dayChange": null,
+              "eqpmt": "789",
+              "std": "11:20",
+              "sta": "18:30",
+              "operationType": "FRT",
+              "flightOwner": "LA",
+              "dateOfArrival": "12-FEB-2023",
+              "operationalCarrierCode": null
+            },
+            "dateOfArrivalWithTime": "12-FEB-2023",
+            "dateOfDepartureWithTime": "12-FEB-2023",
+            "volume": "0.61",
+            "weight": "180.0"
+          }
+        ],
+        "enRouteAirports": [],
+        "prdRateInfo": {
+          "productId": 46,
+          "productCode": "SBAP",
+          "productName": "STD BASIC PAX",
+          "commercialName": "STD BASIC PAX",
+          "serviceType": "STD",
+          "totalFreightCharge": 927,
+          "userCurrency": "USD",
+          "securitySurcharge": null,
+          "fuelSurCharge": null,
+          "netRevenue": 927,
+          "totalRevenue": 927,
+          "rateType": "Street Rate",
+          "bidRate": null,
+          "profitability": "Pass"
+        }
+      },
+      {
+        "ocdcCharges": null,
+        "segmentAvailabilityInfoList": [
+          {
+            "standardDeparturedTime": "07:30",
+            "standardTimeOfArrival": "20:00",
+            "fltInfoSO": {
+              "carrierCode": "LA",
+              "carrierNumber": "1303",
+              "dateOfDeparture": "12-FEB-2023",
+              "segmentOfArrival": "SCL",
+              "segmentOfDeparture": "MIA",
+              "suffix": null,
+              "dayChange": null,
+              "eqpmt": "789",
+              "std": "07:30",
+              "sta": "20:00",
+              "operationType": "PAX",
+              "flightOwner": "PZ",
+              "dateOfArrival": "12-FEB-2023",
+              "operationalCarrierCode": null
+            },
+            "dateOfArrivalWithTime": "12-FEB-2023",
+            "dateOfDepartureWithTime": "12-FEB-2023",
+            "volume": "0.61",
+            "weight": "180.0"
+          }
+        ],
+        "enRouteAirports": [],
+        "prdRateInfo": {
+          "productId": 46,
+          "productCode": "SBAP",
+          "productName": "STD BASIC PAX",
+          "commercialName": "STD BASIC PAX",
+          "serviceType": "STD",
+          "totalFreightCharge": 927,
+          "userCurrency": "USD",
+          "securitySurcharge": null,
+          "fuelSurCharge": null,
+          "netRevenue": 927,
+          "totalRevenue": 927,
+          "rateType": "Street Rate",
+          "bidRate": null,
+          "profitability": "Pass"
+        }
+      },
+      {
+        "ocdcCharges": null,
+        "segmentAvailabilityInfoList": [
+          {
+            "standardDeparturedTime": "17:19",
+            "standardTimeOfArrival": "21:19",
+            "fltInfoSO": {
+              "carrierCode": "LA",
+              "carrierNumber": "0091",
+              "dateOfDeparture": "12-FEB-2023",
+              "segmentOfArrival": "SCL",
+              "segmentOfDeparture": "MIA",
+              "suffix": null,
+              "dayChange": null,
+              "eqpmt": "319",
+              "std": "17:19",
+              "sta": "21:19",
+              "operationType": "PAX",
+              "flightOwner": "LA",
+              "dateOfArrival": "12-FEB-2023",
+              "operationalCarrierCode": null
+            },
+            "dateOfArrivalWithTime": "12-FEB-2023",
+            "dateOfDepartureWithTime": "12-FEB-2023",
+            "volume": "0.61",
+            "weight": "180.0"
+          }
+        ],
+        "enRouteAirports": [],
+        "prdRateInfo": {
+          "productId": 46,
+          "productCode": "SBAP",
+          "productName": "STD BASIC PAX",
+          "commercialName": "STD BASIC PAX",
+          "serviceType": "STD",
+          "totalFreightCharge": 927,
+          "userCurrency": "USD",
+          "securitySurcharge": null,
+          "fuelSurCharge": null,
+          "netRevenue": 927,
+          "totalRevenue": 927,
+          "rateType": "Street Rate",
+          "bidRate": null,
+          "profitability": "Pass"
+        }
+      },
+      {
+        "ocdcCharges": null,
+        "segmentAvailabilityInfoList": [
+          {
+            "standardDeparturedTime": "10:10",
+            "standardTimeOfArrival": "22:00",
+            "fltInfoSO": {
+              "carrierCode": "LA",
+              "carrierNumber": "2333",
+              "dateOfDeparture": "12-FEB-2023",
+              "segmentOfArrival": "SCL",
+              "segmentOfDeparture": "MIA",
+              "suffix": null,
+              "dayChange": null,
+              "eqpmt": "536",
+              "std": "10:10",
+              "sta": "22:00",
+              "operationType": "PAX",
+              "flightOwner": "LA",
+              "dateOfArrival": "12-FEB-2023",
+              "operationalCarrierCode": null
+            },
+            "dateOfArrivalWithTime": "12-FEB-2023",
+            "dateOfDepartureWithTime": "12-FEB-2023",
+            "volume": "0.61",
+            "weight": "180.0"
+          }
+        ],
+        "enRouteAirports": [],
+        "prdRateInfo": {
+          "productId": 46,
+          "productCode": "SBAP",
+          "productName": "STD BASIC PAX",
+          "commercialName": "STD BASIC PAX",
+          "serviceType": "STD",
+          "totalFreightCharge": 927,
+          "userCurrency": "USD",
+          "securitySurcharge": null,
+          "fuelSurCharge": null,
+          "netRevenue": 927,
+          "totalRevenue": 927,
+          "rateType": "Street Rate",
+          "bidRate": null,
+          "profitability": "Pass"
+        }
+      },
+      {
+        "ocdcCharges": null,
+        "segmentAvailabilityInfoList": [
+          {
+            "standardDeparturedTime": "19:45",
+            "standardTimeOfArrival": "05:45",
+            "fltInfoSO": {
+              "carrierCode": "LA",
+              "carrierNumber": "0001",
+              "dateOfDeparture": "12-FEB-2023",
+              "segmentOfArrival": "SCL",
+              "segmentOfDeparture": "MIA",
+              "suffix": null,
+              "dayChange": null,
+              "eqpmt": "TRK",
+              "std": "19:45",
+              "sta": "05:45",
+              "operationType": "FRT",
+              "flightOwner": "LA",
+              "dateOfArrival": "13-FEB-2023",
+              "operationalCarrierCode": null
+            },
+            "dateOfArrivalWithTime": "13-FEB-2023",
+            "dateOfDepartureWithTime": "12-FEB-2023",
+            "volume": "0.61",
+            "weight": "180.0"
+          }
+        ],
+        "enRouteAirports": [],
+        "prdRateInfo": {
+          "productId": 46,
+          "productCode": "SBAP",
+          "productName": "STD BASIC PAX",
+          "commercialName": "STD BASIC PAX",
+          "serviceType": "STD",
+          "totalFreightCharge": 927,
+          "userCurrency": "USD",
+          "securitySurcharge": null,
+          "fuelSurCharge": null,
+          "netRevenue": 927,
+          "totalRevenue": 927,
+          "rateType": "Street Rate",
+          "bidRate": null,
+          "profitability": "Pass"
+        }
+      },
+      {
+        "ocdcCharges": null,
+        "segmentAvailabilityInfoList": [
+          {
+            "standardDeparturedTime": "01:00",
+            "standardTimeOfArrival": "11:40",
+            "fltInfoSO": {
+              "carrierCode": "LA",
+              "carrierNumber": "2378",
+              "dateOfDeparture": "13-FEB-2023",
+              "segmentOfArrival": "SCL",
+              "segmentOfDeparture": "MIA",
+              "suffix": null,
+              "dayChange": null,
+              "eqpmt": "763",
+              "std": "01:00",
+              "sta": "11:40",
+              "operationType": "PAX",
+              "flightOwner": "LA",
+              "dateOfArrival": "13-FEB-2023",
+              "operationalCarrierCode": null
+            },
+            "dateOfArrivalWithTime": "13-FEB-2023",
+            "dateOfDepartureWithTime": "13-FEB-2023",
+            "volume": "0.61",
+            "weight": "180.0"
+          }
+        ],
+        "enRouteAirports": [],
+        "prdRateInfo": {
+          "productId": 46,
+          "productCode": "SBAP",
+          "productName": "STD BASIC PAX",
+          "commercialName": "STD BASIC PAX",
+          "serviceType": "STD",
+          "totalFreightCharge": 927,
+          "userCurrency": "USD",
+          "securitySurcharge": null,
+          "fuelSurCharge": null,
+          "netRevenue": 927,
+          "totalRevenue": 927,
+          "rateType": "Street Rate",
+          "bidRate": null,
+          "profitability": "Pass"
+        }
+      },
+      {
+        "ocdcCharges": null,
+        "segmentAvailabilityInfoList": [
+          {
+            "standardDeparturedTime": "01:00",
+            "standardTimeOfArrival": "11:40",
+            "fltInfoSO": {
+              "carrierCode": "LA",
+              "carrierNumber": "9581",
+              "dateOfDeparture": "13-FEB-2023",
+              "segmentOfArrival": "SCL",
+              "segmentOfDeparture": "MIA",
+              "suffix": null,
+              "dayChange": null,
+              "eqpmt": "789",
+              "std": "01:00",
+              "sta": "11:40",
+              "operationType": "PAX",
+              "flightOwner": "LA",
+              "dateOfArrival": "13-FEB-2023",
+              "operationalCarrierCode": null
+            },
+            "dateOfArrivalWithTime": "13-FEB-2023",
+            "dateOfDepartureWithTime": "13-FEB-2023",
+            "volume": "0.61",
+            "weight": "180.0"
+          }
+        ],
+        "enRouteAirports": [],
+        "prdRateInfo": {
+          "productId": 46,
+          "productCode": "SBAP",
+          "productName": "STD BASIC PAX",
+          "commercialName": "STD BASIC PAX",
+          "serviceType": "STD",
+          "totalFreightCharge": 927,
+          "userCurrency": "USD",
+          "securitySurcharge": null,
+          "fuelSurCharge": null,
+          "netRevenue": 927,
+          "totalRevenue": 927,
+          "rateType": "Street Rate",
+          "bidRate": null,
+          "profitability": "Pass"
+        }
+      },
+      {
+        "ocdcCharges": null,
+        "segmentAvailabilityInfoList": [
+          {
+            "standardDeparturedTime": "11:20",
+            "standardTimeOfArrival": "18:30",
+            "fltInfoSO": {
+              "carrierCode": "LA",
+              "carrierNumber": "1372",
+              "dateOfDeparture": "13-FEB-2023",
+              "segmentOfArrival": "SCL",
+              "segmentOfDeparture": "MIA",
+              "suffix": null,
+              "dayChange": null,
+              "eqpmt": "789",
+              "std": "11:20",
+              "sta": "18:30",
+              "operationType": "FRT",
+              "flightOwner": "LA",
+              "dateOfArrival": "13-FEB-2023",
+              "operationalCarrierCode": null
+            },
+            "dateOfArrivalWithTime": "13-FEB-2023",
+            "dateOfDepartureWithTime": "13-FEB-2023",
+            "volume": "0.61",
+            "weight": "180.0"
+          }
+        ],
+        "enRouteAirports": [],
+        "prdRateInfo": {
+          "productId": 46,
+          "productCode": "SBAP",
+          "productName": "STD BASIC PAX",
+          "commercialName": "STD BASIC PAX",
+          "serviceType": "STD",
+          "totalFreightCharge": 927,
+          "userCurrency": "USD",
+          "securitySurcharge": null,
+          "fuelSurCharge": null,
+          "netRevenue": 927,
+          "totalRevenue": 927,
+          "rateType": "Street Rate",
+          "bidRate": null,
+          "profitability": "Pass"
+        }
+      },
+      {
+        "ocdcCharges": null,
+        "segmentAvailabilityInfoList": [
+          {
+            "standardDeparturedTime": "07:30",
+            "standardTimeOfArrival": "20:00",
+            "fltInfoSO": {
+              "carrierCode": "LA",
+              "carrierNumber": "1303",
+              "dateOfDeparture": "13-FEB-2023",
+              "segmentOfArrival": "SCL",
+              "segmentOfDeparture": "MIA",
+              "suffix": null,
+              "dayChange": null,
+              "eqpmt": "789",
+              "std": "07:30",
+              "sta": "20:00",
+              "operationType": "PAX",
+              "flightOwner": "PZ",
+              "dateOfArrival": "13-FEB-2023",
+              "operationalCarrierCode": null
+            },
+            "dateOfArrivalWithTime": "13-FEB-2023",
+            "dateOfDepartureWithTime": "13-FEB-2023",
+            "volume": "0.61",
+            "weight": "180.0"
+          }
+        ],
+        "enRouteAirports": [],
+        "prdRateInfo": {
+          "productId": 46,
+          "productCode": "SBAP",
+          "productName": "STD BASIC PAX",
+          "commercialName": "STD BASIC PAX",
+          "serviceType": "STD",
+          "totalFreightCharge": 927,
+          "userCurrency": "USD",
+          "securitySurcharge": null,
+          "fuelSurCharge": null,
+          "netRevenue": 927,
+          "totalRevenue": 927,
+          "rateType": "Street Rate",
+          "bidRate": null,
+          "profitability": "Pass"
+        }
+      },
+      {
+        "ocdcCharges": null,
+        "segmentAvailabilityInfoList": [
+          {
+            "standardDeparturedTime": "10:10",
+            "standardTimeOfArrival": "22:00",
+            "fltInfoSO": {
+              "carrierCode": "LA",
+              "carrierNumber": "2333",
+              "dateOfDeparture": "13-FEB-2023",
+              "segmentOfArrival": "SCL",
+              "segmentOfDeparture": "MIA",
+              "suffix": null,
+              "dayChange": null,
+              "eqpmt": "536",
+              "std": "10:10",
+              "sta": "22:00",
+              "operationType": "PAX",
+              "flightOwner": "LA",
+              "dateOfArrival": "13-FEB-2023",
+              "operationalCarrierCode": null
+            },
+            "dateOfArrivalWithTime": "13-FEB-2023",
+            "dateOfDepartureWithTime": "13-FEB-2023",
+            "volume": "0.61",
+            "weight": "180.0"
+          }
+        ],
+        "enRouteAirports": [],
+        "prdRateInfo": {
+          "productId": 46,
+          "productCode": "SBAP",
+          "productName": "STD BASIC PAX",
+          "commercialName": "STD BASIC PAX",
+          "serviceType": "STD",
+          "totalFreightCharge": 927,
+          "userCurrency": "USD",
+          "securitySurcharge": null,
+          "fuelSurCharge": null,
+          "netRevenue": 927,
+          "totalRevenue": 927,
+          "rateType": "Street Rate",
+          "bidRate": null,
+          "profitability": "Pass"
+        }
+      },
+      {
+        "ocdcCharges": null,
+        "segmentAvailabilityInfoList": [
+          {
+            "standardDeparturedTime": "17:57",
+            "standardTimeOfArrival": "22:57",
+            "fltInfoSO": {
+              "carrierCode": "LA",
+              "carrierNumber": "1190",
+              "dateOfDeparture": "13-FEB-2023",
+              "segmentOfArrival": "SCL",
+              "segmentOfDeparture": "MIA",
+              "suffix": null,
+              "dayChange": null,
+              "eqpmt": "319",
+              "std": "17:57",
+              "sta": "22:57",
+              "operationType": "PAX",
+              "flightOwner": "LA",
+              "dateOfArrival": "13-FEB-2023",
+              "operationalCarrierCode": null
+            },
+            "dateOfArrivalWithTime": "13-FEB-2023",
+            "dateOfDepartureWithTime": "13-FEB-2023",
+            "volume": "0.61",
+            "weight": "180.0"
+          }
+        ],
+        "enRouteAirports": [],
+        "prdRateInfo": {
+          "productId": 46,
+          "productCode": "SBAP",
+          "productName": "STD BASIC PAX",
+          "commercialName": "STD BASIC PAX",
+          "serviceType": "STD",
+          "totalFreightCharge": 927,
+          "userCurrency": "USD",
+          "securitySurcharge": null,
+          "fuelSurCharge": null,
+          "netRevenue": 927,
+          "totalRevenue": 927,
+          "rateType": "Street Rate",
+          "bidRate": null,
+          "profitability": "Pass"
+        }
+      },
+      {
+        "ocdcCharges": null,
+        "segmentAvailabilityInfoList": [
+          {
+            "standardDeparturedTime": "19:45",
+            "standardTimeOfArrival": "05:45",
+            "fltInfoSO": {
+              "carrierCode": "LA",
+              "carrierNumber": "0001",
+              "dateOfDeparture": "13-FEB-2023",
+              "segmentOfArrival": "SCL",
+              "segmentOfDeparture": "MIA",
+              "suffix": null,
+              "dayChange": null,
+              "eqpmt": "TRK",
+              "std": "19:45",
+              "sta": "05:45",
+              "operationType": "FRT",
+              "flightOwner": "LA",
+              "dateOfArrival": "14-FEB-2023",
+              "operationalCarrierCode": null
+            },
+            "dateOfArrivalWithTime": "14-FEB-2023",
+            "dateOfDepartureWithTime": "13-FEB-2023",
+            "volume": "0.61",
+            "weight": "180.0"
+          }
+        ],
+        "enRouteAirports": [],
+        "prdRateInfo": {
+          "productId": 46,
+          "productCode": "SBAP",
+          "productName": "STD BASIC PAX",
+          "commercialName": "STD BASIC PAX",
+          "serviceType": "STD",
+          "totalFreightCharge": 927,
+          "userCurrency": "USD",
+          "securitySurcharge": null,
+          "fuelSurCharge": null,
+          "netRevenue": 927,
+          "totalRevenue": 927,
+          "rateType": "Street Rate",
+          "bidRate": null,
+          "profitability": "Pass"
+        }
+      },
+      {
+        "ocdcCharges": null,
+        "segmentAvailabilityInfoList": [
+          {
+            "standardDeparturedTime": "19:00",
+            "standardTimeOfArrival": "05:00",
+            "fltInfoSO": {
+              "carrierCode": "LA",
+              "carrierNumber": "4000",
+              "dateOfDeparture": "10-FEB-2023",
+              "segmentOfArrival": "SCL",
+              "segmentOfDeparture": "MIA",
+              "suffix": null,
+              "dayChange": null,
+              "eqpmt": "540",
+              "std": "19:00",
+              "sta": "05:00",
+              "operationType": "PAX",
+              "flightOwner": "LA",
+              "dateOfArrival": "11-FEB-2023",
+              "operationalCarrierCode": null
+            },
+            "dateOfArrivalWithTime": "11-FEB-2023",
+            "dateOfDepartureWithTime": "10-FEB-2023",
+            "volume": "0.61",
+            "weight": "180.0"
+          }
+        ],
+        "enRouteAirports": [],
+        "prdRateInfo": {
+          "productId": 46,
+          "productCode": "SBAP",
+          "productName": "STD BASIC PAX",
+          "commercialName": "STD BASIC PAX",
+          "serviceType": "STD",
+          "totalFreightCharge": 3600,
+          "userCurrency": "USD",
+          "securitySurcharge": null,
+          "fuelSurCharge": null,
+          "netRevenue": 3600,
+          "totalRevenue": 3600,
+          "rateType": "spot rate",
+          "bidRate": 20,
+          "profitability": "Fail"
+        }
+      },
+      {
+        "ocdcCharges": null,
+        "segmentAvailabilityInfoList": [
+          {
+            "standardDeparturedTime": "01:00",
+            "standardTimeOfArrival": "11:40",
+            "fltInfoSO": {
+              "carrierCode": "LA",
+              "carrierNumber": "0509",
+              "dateOfDeparture": "11-FEB-2023",
+              "segmentOfArrival": "SCL",
+              "segmentOfDeparture": "MIA",
+              "suffix": null,
+              "dayChange": null,
+              "eqpmt": "77R",
+              "std": "01:00",
+              "sta": "11:40",
+              "operationType": "PAX",
+              "flightOwner": "LA",
+              "dateOfArrival": "11-FEB-2023",
+              "operationalCarrierCode": null
+            },
+            "dateOfArrivalWithTime": "11-FEB-2023",
+            "dateOfDepartureWithTime": "11-FEB-2023",
+            "volume": "0.61",
+            "weight": "180.0"
+          }
+        ],
+        "enRouteAirports": [],
+        "prdRateInfo": {
+          "productId": 46,
+          "productCode": "SBAP",
+          "productName": "STD BASIC PAX",
+          "commercialName": "STD BASIC PAX",
+          "serviceType": "STD",
+          "totalFreightCharge": 3600,
+          "userCurrency": "USD",
+          "securitySurcharge": null,
+          "fuelSurCharge": null,
+          "netRevenue": 3600,
+          "totalRevenue": 3600,
+          "rateType": "spot rate",
+          "bidRate": 20,
+          "profitability": "Fail"
+        }
+      },
+      {
+        "ocdcCharges": null,
+        "segmentAvailabilityInfoList": [
+          {
+            "standardDeparturedTime": "11:20",
+            "standardTimeOfArrival": "18:30",
+            "fltInfoSO": {
+              "carrierCode": "LA",
+              "carrierNumber": "1372",
+              "dateOfDeparture": "11-FEB-2023",
+              "segmentOfArrival": "SCL",
+              "segmentOfDeparture": "MIA",
+              "suffix": null,
+              "dayChange": null,
+              "eqpmt": "789",
+              "std": "11:20",
+              "sta": "18:30",
+              "operationType": "FRT",
+              "flightOwner": "LA",
+              "dateOfArrival": "11-FEB-2023",
+              "operationalCarrierCode": null
+            },
+            "dateOfArrivalWithTime": "11-FEB-2023",
+            "dateOfDepartureWithTime": "11-FEB-2023",
+            "volume": "0.61",
+            "weight": "180.0"
+          }
+        ],
+        "enRouteAirports": [],
+        "prdRateInfo": {
+          "productId": 46,
+          "productCode": "SBAP",
+          "productName": "STD BASIC PAX",
+          "commercialName": "STD BASIC PAX",
+          "serviceType": "STD",
+          "totalFreightCharge": 3600,
+          "userCurrency": "USD",
+          "securitySurcharge": null,
+          "fuelSurCharge": null,
+          "netRevenue": 3600,
+          "totalRevenue": 3600,
+          "rateType": "spot rate",
+          "bidRate": 20,
+          "profitability": "Fail"
+        }
+      },
+      {
+        "ocdcCharges": null,
+        "segmentAvailabilityInfoList": [
+          {
+            "standardDeparturedTime": "07:30",
+            "standardTimeOfArrival": "20:00",
+            "fltInfoSO": {
+              "carrierCode": "LA",
+              "carrierNumber": "1303",
+              "dateOfDeparture": "11-FEB-2023",
+              "segmentOfArrival": "SCL",
+              "segmentOfDeparture": "MIA",
+              "suffix": null,
+              "dayChange": null,
+              "eqpmt": "789",
+              "std": "07:30",
+              "sta": "20:00",
+              "operationType": "PAX",
+              "flightOwner": "PZ",
+              "dateOfArrival": "11-FEB-2023",
+              "operationalCarrierCode": null
+            },
+            "dateOfArrivalWithTime": "11-FEB-2023",
+            "dateOfDepartureWithTime": "11-FEB-2023",
+            "volume": "0.61",
+            "weight": "180.0"
+          }
+        ],
+        "enRouteAirports": [],
+        "prdRateInfo": {
+          "productId": 46,
+          "productCode": "SBAP",
+          "productName": "STD BASIC PAX",
+          "commercialName": "STD BASIC PAX",
+          "serviceType": "STD",
+          "totalFreightCharge": 3600,
+          "userCurrency": "USD",
+          "securitySurcharge": null,
+          "fuelSurCharge": null,
+          "netRevenue": 3600,
+          "totalRevenue": 3600,
+          "rateType": "spot rate",
+          "bidRate": 20,
+          "profitability": "Fail"
+        }
+      },
+      {
+        "ocdcCharges": null,
+        "segmentAvailabilityInfoList": [
+          {
+            "standardDeparturedTime": "10:10",
+            "standardTimeOfArrival": "22:00",
+            "fltInfoSO": {
+              "carrierCode": "LA",
+              "carrierNumber": "2333",
+              "dateOfDeparture": "11-FEB-2023",
+              "segmentOfArrival": "SCL",
+              "segmentOfDeparture": "MIA",
+              "suffix": null,
+              "dayChange": null,
+              "eqpmt": "536",
+              "std": "10:10",
+              "sta": "22:00",
+              "operationType": "PAX",
+              "flightOwner": "LA",
+              "dateOfArrival": "11-FEB-2023",
+              "operationalCarrierCode": null
+            },
+            "dateOfArrivalWithTime": "11-FEB-2023",
+            "dateOfDepartureWithTime": "11-FEB-2023",
+            "volume": "0.61",
+            "weight": "180.0"
+          }
+        ],
+        "enRouteAirports": [],
+        "prdRateInfo": {
+          "productId": 46,
+          "productCode": "SBAP",
+          "productName": "STD BASIC PAX",
+          "commercialName": "STD BASIC PAX",
+          "serviceType": "STD",
+          "totalFreightCharge": 1800,
+          "userCurrency": "USD",
+          "securitySurcharge": null,
+          "fuelSurCharge": null,
+          "netRevenue": 1800,
+          "totalRevenue": 1800,
+          "rateType": "spot rate",
+          "bidRate": 10,
+          "profitability": "Fail"
+        }
+      },
+      {
+        "ocdcCharges": null,
+        "segmentAvailabilityInfoList": [
+          {
+            "standardDeparturedTime": "19:00",
+            "standardTimeOfArrival": "05:00",
+            "fltInfoSO": {
+              "carrierCode": "LA",
+              "carrierNumber": "4000",
+              "dateOfDeparture": "11-FEB-2023",
+              "segmentOfArrival": "SCL",
+              "segmentOfDeparture": "MIA",
+              "suffix": null,
+              "dayChange": null,
+              "eqpmt": "540",
+              "std": "19:00",
+              "sta": "05:00",
+              "operationType": "PAX",
+              "flightOwner": "LA",
+              "dateOfArrival": "12-FEB-2023",
+              "operationalCarrierCode": null
+            },
+            "dateOfArrivalWithTime": "12-FEB-2023",
+            "dateOfDepartureWithTime": "11-FEB-2023",
+            "volume": "0.61",
+            "weight": "180.0"
+          }
+        ],
+        "enRouteAirports": [],
+        "prdRateInfo": {
+          "productId": 46,
+          "productCode": "SBAP",
+          "productName": "STD BASIC PAX",
+          "commercialName": "STD BASIC PAX",
+          "serviceType": "STD",
+          "totalFreightCharge": 3600,
+          "userCurrency": "USD",
+          "securitySurcharge": null,
+          "fuelSurCharge": null,
+          "netRevenue": 3600,
+          "totalRevenue": 3600,
+          "rateType": "spot rate",
+          "bidRate": 20,
+          "profitability": "Fail"
+        }
+      },
+      {
+        "ocdcCharges": null,
+        "segmentAvailabilityInfoList": [
+          {
+            "standardDeparturedTime": "19:45",
+            "standardTimeOfArrival": "05:45",
+            "fltInfoSO": {
+              "carrierCode": "LA",
+              "carrierNumber": "0001",
+              "dateOfDeparture": "11-FEB-2023",
+              "segmentOfArrival": "SCL",
+              "segmentOfDeparture": "MIA",
+              "suffix": null,
+              "dayChange": null,
+              "eqpmt": "TRK",
+              "std": "19:45",
+              "sta": "05:45",
+              "operationType": "FRT",
+              "flightOwner": "LA",
+              "dateOfArrival": "12-FEB-2023",
+              "operationalCarrierCode": null
+            },
+            "dateOfArrivalWithTime": "12-FEB-2023",
+            "dateOfDepartureWithTime": "11-FEB-2023",
+            "volume": "0.61",
+            "weight": "180.0"
+          }
+        ],
+        "enRouteAirports": [],
+        "prdRateInfo": {
+          "productId": 46,
+          "productCode": "SBAP",
+          "productName": "STD BASIC PAX",
+          "commercialName": "STD BASIC PAX",
+          "serviceType": "STD",
+          "totalFreightCharge": 3600,
+          "userCurrency": "USD",
+          "securitySurcharge": null,
+          "fuelSurCharge": null,
+          "netRevenue": 3600,
+          "totalRevenue": 3600,
+          "rateType": "spot rate",
+          "bidRate": 20,
+          "profitability": "Fail"
+        }
+      },
+      {
+        "ocdcCharges": null,
+        "segmentAvailabilityInfoList": [
+          {
+            "standardDeparturedTime": "19:00",
+            "standardTimeOfArrival": "05:00",
+            "fltInfoSO": {
+              "carrierCode": "LA",
+              "carrierNumber": "4000",
+              "dateOfDeparture": "12-FEB-2023",
+              "segmentOfArrival": "SCL",
+              "segmentOfDeparture": "MIA",
+              "suffix": null,
+              "dayChange": null,
+              "eqpmt": "540",
+              "std": "19:00",
+              "sta": "05:00",
+              "operationType": "PAX",
+              "flightOwner": "LA",
+              "dateOfArrival": "13-FEB-2023",
+              "operationalCarrierCode": null
+            },
+            "dateOfArrivalWithTime": "13-FEB-2023",
+            "dateOfDepartureWithTime": "12-FEB-2023",
+            "volume": "0.61",
+            "weight": "180.0"
+          }
+        ],
+        "enRouteAirports": [],
+        "prdRateInfo": {
+          "productId": 46,
+          "productCode": "SBAP",
+          "productName": "STD BASIC PAX",
+          "commercialName": "STD BASIC PAX",
+          "serviceType": "STD",
+          "totalFreightCharge": 3600,
+          "userCurrency": "USD",
+          "securitySurcharge": null,
+          "fuelSurCharge": null,
+          "netRevenue": 3600,
+          "totalRevenue": 3600,
+          "rateType": "spot rate",
+          "bidRate": 20,
+          "profitability": "Fail"
+        }
+      },
+      {
+        "ocdcCharges": null,
+        "segmentAvailabilityInfoList": [
+          {
+            "standardDeparturedTime": "19:00",
+            "standardTimeOfArrival": "05:00",
+            "fltInfoSO": {
+              "carrierCode": "LA",
+              "carrierNumber": "4000",
+              "dateOfDeparture": "13-FEB-2023",
+              "segmentOfArrival": "SCL",
+              "segmentOfDeparture": "MIA",
+              "suffix": null,
+              "dayChange": null,
+              "eqpmt": "540",
+              "std": "19:00",
+              "sta": "05:00",
+              "operationType": "PAX",
+              "flightOwner": "LA",
+              "dateOfArrival": "14-FEB-2023",
+              "operationalCarrierCode": null
+            },
+            "dateOfArrivalWithTime": "14-FEB-2023",
+            "dateOfDepartureWithTime": "13-FEB-2023",
+            "volume": "0.61",
+            "weight": "180.0"
+          }
+        ],
+        "enRouteAirports": [],
+        "prdRateInfo": {
+          "productId": 46,
+          "productCode": "SBAP",
+          "productName": "STD BASIC PAX",
+          "commercialName": "STD BASIC PAX",
+          "serviceType": "STD",
+          "totalFreightCharge": 3600,
+          "userCurrency": "USD",
+          "securitySurcharge": null,
+          "fuelSurCharge": null,
+          "netRevenue": 3600,
+          "totalRevenue": 3600,
+          "rateType": "spot rate",
+          "bidRate": 20,
+          "profitability": "Fail"
+        }
+      }
+    ]
+  }
+}

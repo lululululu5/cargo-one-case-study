@@ -1,0 +1,42 @@
+{
+  "requestHeader": {
+    "clientTransactionId": "92b130a0-29eb-4807-b170-ffb7066a5897"
+  },
+  "ListFlightInformationRequest": {
+    "requestID": "92b130a0-29eb-4807-b170-ffb7066a5897",
+    "flightAvailabilityFilterType": {
+      "destination": "GRU",
+      "origin": "FRA",
+      "shippingDate": "16-FEB-2023",
+      "offSetfromShipgDate": 5,
+      "bookingStation": "FRA",
+      "agentCode": "20470329515",
+      "sccDetails": "GEN",
+      "commodityDetails": [
+        {
+          "commodityCode": "GEN",
+          "sccDetails": {
+            "sccCode": "GEN"
+          },
+          "pieces": 1,
+          "weight": 100,
+          "volume": 0.03,
+          "dimensionDetaills": [
+            {
+              "length": 30,
+              "width": 30,
+              "height": 30,
+              "numberOfPieces": 1,
+              "volume": 0.03,
+              "weight": 100,
+              "tiltable": "N",
+              "nonStackable": "Y",
+              "weightUnit": "K",
+              "dimensionUnit": "C"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
